@@ -1,0 +1,650 @@
+id,Name,Gender,Age,City,Working Professional or Student,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness
+140700,Shivam,Male,53.0,Visakhapatnam,Working Professional,Judge,,2.0,,,5.0,Less than 5 hours,Moderate,LLB,No,9.0,3.0,Yes
+140701,Sanya,Female,58.0,Kolkata,Working Professional,Educational Consultant,,2.0,,,4.0,Less than 5 hours,Moderate,B.Ed,No,6.0,4.0,No
+140702,Yash,Male,53.0,Jaipur,Working Professional,Teacher,,4.0,,,1.0,7-8 hours,Moderate,B.Arch,Yes,12.0,4.0,No
+140703,Nalini,Female,23.0,Rajkot,Student,,5.0,,6.84,1.0,,More than 8 hours,Moderate,BSc,Yes,10.0,4.0,No
+140704,Shaurya,Male,47.0,Kalyan,Working Professional,Teacher,,5.0,,,5.0,7-8 hours,Moderate,BCA,Yes,3.0,4.0,No
+140705,Kartik,Male,29.0,Mumbai,Working Professional,Customer Support,,2.0,,,3.0,More than 8 hours,Moderate,B.Com,No,3.0,2.0,Yes
+140706,Armaan,Male,47.0,Visakhapatnam,Working Professional,Teacher,,1.0,,,1.0,Less than 5 hours,Healthy,MA,No,10.0,3.0,Yes
+140707,Ritika,Female,28.0,Mumbai,Working Professional,Customer Support,,5.0,,,3.0,7-8 hours,Healthy,BA,Yes,0.0,2.0,No
+140708,Navya,Female,21.0,Surat,Student,,1.0,,7.39,3.0,,Less than 5 hours,Healthy,BBA,No,8.0,1.0,Yes
+140709,Harsha,Male,21.0,Jaipur,Working Professional,,,5.0,,,1.0,Less than 5 hours,Healthy,Class 12,Yes,10.0,4.0,No
+140710,Keshav,Male,45.0,Srinagar,Working Professional,Chemist,,4.0,,,2.0,5-6 hours,Unhealthy,MD,No,5.0,2.0,Yes
+140711,Raghav,Male,44.0,Delhi,Working Professional,Content Writer,,1.0,,,4.0,5-6 hours,Moderate,B.Ed,No,4.0,4.0,Yes
+140712,Advait,Male,48.0,Lucknow,Working Professional,Consultant,,3.0,,,1.0,Less than 5 hours,Moderate,B.Com,No,4.0,3.0,No
+140713,Reyansh,Male,18.0,Visakhapatnam,Working Professional,,,5.0,,,2.0,5-6 hours,Moderate,Class 12,Yes,0.0,2.0,No
+140714,Garima,Female,45.0,Mumbai,Working Professional,HR Manager,,5.0,,,4.0,5-6 hours,Healthy,MA,Yes,6.0,1.0,Yes
+140715,Anvi,Female,29.0,Thane,Working Professional,Research Analyst,,2.0,,,5.0,7-8 hours,Healthy,MBA,No,10.0,1.0,No
+140716,Rudra,Male,52.0,Meerut,Working Professional,Digital Marketer,,3.0,,,3.0,7-8 hours,Healthy,MA,Yes,4.0,2.0,No
+140717,Advait,Male,34.0,Srinagar,Working Professional,Teacher,,1.0,,,1.0,More than 8 hours,Unhealthy,M.Ed,No,6.0,3.0,No
+140718,Riya,Female,49.0,Nagpur,Working Professional,Chemist,,4.0,,,2.0,7-8 hours,Moderate,M.Pharm,No,9.0,3.0,No
+140719,Kiran,Male,28.0,Lucknow,Student,,5.0,,6.03,3.0,,7-8 hours,Moderate,MA,No,11.0,3.0,Yes
+140720,Rashi,Female,26.0,Ghaziabad,Student,,3.0,,8.63,5.0,,More than 8 hours,Moderate,BBA,Yes,10.0,4.0,Yes
+140721,Manan,Male,32.0,Visakhapatnam,Student,,3.0,,8.61,1.0,,Less than 5 hours,Moderate,M.Ed,Yes,11.0,5.0,No
+140722,Anjali,Female,41.0,Chennai,Working Professional,HR Manager,,1.0,,,1.0,5-6 hours,Moderate,BA,No,7.0,3.0,Yes
+140723,Vikram,Male,42.0,Varanasi,Working Professional,Electrician,,2.0,,,3.0,7-8 hours,Unhealthy,BSc,Yes,1.0,2.0,Yes
+140724,Suhani,Female,25.0,Jaipur,Student,,5.0,,6.73,2.0,,7-8 hours,Moderate,BHM,Yes,2.0,3.0,No
+140725,Ishaani,Female,49.0,Surat,Working Professional,Teacher,,2.0,,,5.0,Less than 5 hours,Unhealthy,B.Ed,Yes,4.0,4.0,No
+140726,Ivaan,Male,43.0,Indore,Working Professional,Teacher,,3.0,,,5.0,More than 8 hours,Healthy,LLM,No,7.0,2.0,Yes
+140727,Bhavna,Female,20.0,Surat,Working Professional,,,3.0,,,5.0,5-6 hours,Moderate,Class 12,No,12.0,5.0,No
+140728,Rupa,Female,45.0,Ghaziabad,Working Professional,Marketing Manager,,3.0,,,4.0,5-6 hours,Unhealthy,BA,Yes,4.0,1.0,No
+140729,Eshita,Female,45.0,Visakhapatnam,Working Professional,Content Writer,,5.0,,,4.0,Less than 5 hours,Moderate,B.Ed,No,7.0,4.0,No
+140730,Ayaan,Male,33.0,Thane,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Unhealthy,B.Ed,No,0.0,4.0,Yes
+140731,Vidya,Female,58.0,Visakhapatnam,Working Professional,,,5.0,,,1.0,Less than 5 hours,Moderate,Class 12,Yes,11.0,3.0,No
+140732,Chirag,Male,18.0,Srinagar,Working Professional,,,1.0,,,3.0,Less than 5 hours,Moderate,Class 12,Yes,3.0,4.0,No
+140733,Garima,Female,45.0,Pune,Working Professional,Consultant,,3.0,,,2.0,7-8 hours,Healthy,PhD,No,0.0,4.0,Yes
+140734,Rupal,Female,19.0,Hyderabad,Student,,4.0,,5.58,4.0,,5-6 hours,Moderate,Class 12,Yes,11.0,5.0,No
+140735,Khushi,Female,52.0,Kanpur,Working Professional,Customer Support,,3.0,,,3.0,More than 8 hours,Unhealthy,BA,Yes,11.0,4.0,No
+140736,Aarav,Male,51.0,Nashik,Working Professional,Plumber,,4.0,,,1.0,5-6 hours,Unhealthy,PhD,Yes,0.0,2.0,No
+140737,Anika,Female,48.0,Bhopal,Working Professional,Pharmacist,,1.0,,,3.0,Less than 5 hours,Moderate,MD,Yes,4.0,2.0,No
+140738,Yashvi,Female,25.0,Faridabad,Student,,5.0,,7.94,3.0,,7-8 hours,Unhealthy,B.Ed,Yes,6.0,4.0,No
+140739,Harsha,Male,51.0,Faridabad,Working Professional,Lawyer,,4.0,,,1.0,7-8 hours,Moderate,LLM,Yes,7.0,2.0,Yes
+140740,Dhruv,Male,34.0,Thane,Student,,2.0,,9.04,3.0,,Less than 5 hours,Healthy,BCA,No,4.0,2.0,No
+140741,Abhishek,Male,46.0,Bangalore,Working Professional,Customer Support,,1.0,,,2.0,5-6 hours,Unhealthy,M.Com,Yes,4.0,1.0,No
+140742,Anaya,Female,49.0,Vasai-Virar,Working Professional,Teacher,,4.0,,,4.0,5-6 hours,Unhealthy,BCA,No,6.0,4.0,No
+140743,Ira,Female,28.0,Pune,Student,,4.0,,9.6,5.0,,7-8 hours,Unhealthy,BCA,Yes,10.0,5.0,No
+140744,Nishant,Male,47.0,Ludhiana,Working Professional,Marketing Manager,,1.0,,,1.0,7-8 hours,Moderate,B.Com,Yes,0.0,2.0,Yes
+140745,Abhishek,Male,18.0,Meerut,Working Professional,,,5.0,,,4.0,More than 8 hours,Unhealthy,Class 12,No,9.0,2.0,Yes
+140746,Tushar,Male,59.0,Ludhiana,Working Professional,Pilot,,5.0,,,4.0,More than 8 hours,Unhealthy,BE,Yes,8.0,5.0,Yes
+140747,Saurav,Male,39.0,Lucknow,Working Professional,Architect,,3.0,,,5.0,More than 8 hours,Healthy,B.Arch,Yes,6.0,2.0,Yes
+140748,Aaradhya,Female,49.0,Vasai-Virar,Working Professional,Chef,,5.0,,,5.0,Less than 5 hours,Unhealthy,BHM,Yes,7.0,2.0,Yes
+140749,Vivan,Male,50.0,Surat,Working Professional,Pharmacist,,1.0,,,4.0,Less than 5 hours,Moderate,M.Pharm,No,10.0,3.0,No
+140750,Aanchal,Female,53.0,Kolkata,Working Professional,Pharmacist,,2.0,,,3.0,More than 8 hours,Moderate,MBBS,Yes,1.0,4.0,No
+140751,Aishwarya,Female,45.0,Vasai-Virar,Working Professional,Graphic Designer,,2.0,,,3.0,More than 8 hours,Unhealthy,B.Tech,No,0.0,3.0,No
+140752,Reyansh,Male,39.0,Nagpur,Working Professional,Digital Marketer,,2.0,,,2.0,Less than 5 hours,Moderate,B.Com,No,0.0,2.0,No
+140753,Aarush,Male,29.0,Surat,Student,,1.0,,8.91,4.0,,Less than 5 hours,Moderate,M.Com,No,10.0,2.0,No
+140754,Mithila,Female,18.0,Mumbai,Student,,3.0,,9.54,2.0,,Less than 5 hours,Healthy,Class 12,Yes,11.0,5.0,Yes
+140755,Vidhi,Female,48.0,Bangalore,Working Professional,Teacher,,1.0,,,2.0,Less than 5 hours,Moderate,BCA,Yes,5.0,2.0,Yes
+140756,Rupak,Male,18.0,Hyderabad,Working Professional,,,4.0,,,5.0,7-8 hours,Moderate,Class 12,Yes,7.0,5.0,No
+140757,Yashvi,Female,58.0,Bhopal,Working Professional,Entrepreneur,,4.0,,,2.0,More than 8 hours,Moderate,ME,No,3.0,3.0,No
+140758,Shrey,Male,55.0,Jaipur,Working Professional,Entrepreneur,,2.0,,,2.0,More than 8 hours,Moderate,MCA,No,6.0,1.0,Yes
+140759,Monika,Female,53.0,Chennai,Working Professional,Lawyer,,3.0,,,2.0,7-8 hours,Unhealthy,LLB,No,1.0,3.0,Yes
+140760,Armaan,Male,43.0,Pune,Working Professional,Marketing Manager,,4.0,,,3.0,7-8 hours,Moderate,BA,No,0.0,4.0,Yes
+140761,Shruti,Female,54.0,Hyderabad,Working Professional,HR Manager,,1.0,,,2.0,More than 8 hours,Healthy,ME,Yes,2.0,3.0,Yes
+140762,Vaishnavi,Female,43.0,Srinagar,Working Professional,Manager,,2.0,,,1.0,5-6 hours,Moderate,BHM,Yes,8.0,3.0,No
+140763,Rashi,Female,45.0,Ludhiana,Working Professional,Mechanical Engineer,,5.0,,,5.0,Less than 5 hours,Healthy,PhD,No,6.0,1.0,Yes
+140764,Amit,Male,20.0,Hyderabad,Student,,3.0,,8.13,1.0,,Less than 5 hours,Unhealthy,Class 12,No,5.0,3.0,Yes
+140765,Kavya,Female,46.0,Visakhapatnam,Working Professional,Teacher,,1.0,,,1.0,More than 8 hours,Healthy,B.Pharm,No,1.0,4.0,No
+140766,Navya,Female,53.0,Surat,Working Professional,Content Writer,,2.0,,,5.0,5-6 hours,Moderate,B.Tech,No,0.0,5.0,Yes
+140767,Manan,Male,25.0,Visakhapatnam,Student,,4.0,,6.16,4.0,,5-6 hours,Unhealthy,MCA,Yes,1.0,1.0,Yes
+140768,Vani,Female,59.0,Varanasi,Working Professional,Pharmacist,,1.0,,,1.0,Less than 5 hours,Moderate,MBBS,No,4.0,3.0,Yes
+140769,Tushar,Male,50.0,Kalyan,Working Professional,Chef,,3.0,,,1.0,Less than 5 hours,Healthy,MHM,No,1.0,4.0,No
+140770,Prisha,Female,34.0,Jaipur,Student,,1.0,,7.38,4.0,,More than 8 hours,Healthy,M.Ed,No,10.0,1.0,Yes
+140771,Gaurav,Male,23.0,Patna,Working Professional,Consultant,,3.0,,,1.0,Less than 5 hours,Unhealthy,BBA,Yes,2.0,5.0,Yes
+140772,Ritvik,Male,25.0,Ludhiana,Student,,3.0,,7.04,3.0,,5-6 hours,Moderate,M.Pharm,No,2.0,1.0,Yes
+140773,Rudransh,Male,51.0,Visakhapatnam,Working Professional,Teacher,,5.0,,,2.0,5-6 hours,Moderate,M.Pharm,Yes,11.0,3.0,Yes
+140774,Krishna,Male,18.0,Delhi,Working Professional,,,3.0,,,1.0,7-8 hours,Unhealthy,Class 12,No,0.0,3.0,No
+140775,Aishwarya,Female,18.0,Ludhiana,Working Professional,,,4.0,,,3.0,Less than 5 hours,Unhealthy,Class 12,Yes,1.0,3.0,Yes
+140776,Raunak,Male,38.0,Lucknow,Working Professional,Chef,,2.0,,,5.0,Less than 5 hours,Unhealthy,BHM,Yes,8.0,1.0,No
+140777,Rahil,Male,41.0,Visakhapatnam,Working Professional,Chef,,4.0,,,4.0,More than 8 hours,Healthy,MHM,No,10.0,1.0,No
+140778,Harsh,Male,23.0,Mumbai,Working Professional,Software Engineer,,5.0,,,4.0,5-6 hours,Healthy,BCA,No,5.0,3.0,Yes
+140779,Aarav,Male,25.0,Meerut,Student,,1.0,,9.41,5.0,,5-6 hours,Moderate,B.Com,Yes,7.0,2.0,No
+140780,Prisha,Female,35.0,Indore,Working Professional,Teacher,,2.0,,,5.0,5-6 hours,Moderate,B.Arch,Yes,0.0,2.0,Yes
+140781,Aarohi,Female,54.0,Vadodara,Working Professional,Teacher,,4.0,,,4.0,7-8 hours,Unhealthy,MA,Yes,4.0,1.0,No
+140782,Garima,Female,49.0,Ahmedabad,Working Professional,HR Manager,,2.0,,,5.0,5-6 hours,Healthy,M.Tech,No,5.0,4.0,No
+140783,Utkarsh,Male,47.0,Jaipur,Working Professional,,,2.0,,,5.0,Less than 5 hours,Unhealthy,Class 12,Yes,9.0,1.0,No
+140784,Siddhesh,Male,44.0,Visakhapatnam,Working Professional,Digital Marketer,,3.0,,,3.0,Less than 5 hours,Unhealthy,MA,No,8.0,1.0,No
+140785,Veda,Female,44.0,Srinagar,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Healthy,LLM,No,0.0,5.0,Yes
+140786,Naina,Female,57.0,Kolkata,Working Professional,Travel Consultant,,3.0,,,4.0,5-6 hours,Moderate,BHM,Yes,1.0,1.0,No
+140787,Naina,Female,49.0,Surat,Working Professional,Architect,,5.0,,,5.0,Less than 5 hours,Unhealthy,MCA,No,10.0,1.0,No
+140788,Ritvik,Male,56.0,Agra,Working Professional,Teacher,,5.0,,,3.0,Less than 5 hours,Moderate,B.Pharm,No,11.0,4.0,No
+140789,Ishaani,Female,57.0,Rajkot,Working Professional,Teacher,,4.0,,,2.0,7-8 hours,Moderate,B.Ed,No,0.0,3.0,No
+140790,Simran,Female,37.0,Nagpur,Working Professional,Plumber,,2.0,,,1.0,5-6 hours,Unhealthy,BE,Yes,10.0,5.0,No
+140791,Siddhesh,Male,46.0,Pune,Working Professional,Chemist,,3.0,,,4.0,Less than 5 hours,Moderate,B.Pharm,No,1.0,2.0,Yes
+140792,Aarav,Male,41.0,Ahmedabad,Working Professional,Architect,,2.0,,,3.0,5-6 hours,Healthy,BCA,No,10.0,5.0,No
+140793,Kunal,Male,38.0,Ahmedabad,Working Professional,Lawyer,,1.0,,,2.0,Less than 5 hours,Unhealthy,LLM,No,11.0,3.0,No
+140794,Rahil,Male,25.0,Hyderabad,Working Professional,Finanancial Analyst,,5.0,,,3.0,Less than 5 hours,Moderate,MCA,No,4.0,5.0,No
+140795,Leela,Female,36.0,Indore,Working Professional,Teacher,,5.0,,,5.0,5-6 hours,Healthy,MD,No,10.0,1.0,Yes
+140796,Amit,Male,34.0,Rajkot,Working Professional,Teacher,,4.0,,,2.0,More than 8 hours,Unhealthy,B.Pharm,No,8.0,4.0,Yes
+140797,Jiya,Female,33.0,Delhi,Student,,3.0,,5.59,1.0,,More than 8 hours,Healthy,PhD,Yes,8.0,5.0,Yes
+140798,Shaurya,Male,32.0,Delhi,Student,,3.0,,9.89,4.0,,More than 8 hours,Unhealthy,MBBS,Yes,0.0,5.0,No
+140799,Vihaan,Male,18.0,Nagpur,Student,,4.0,,8.7,5.0,,7-8 hours,Moderate,Class 12,No,11.0,5.0,No
+140800,Keshav,Male,58.0,Varanasi,Working Professional,Finanancial Analyst,,5.0,,,5.0,7-8 hours,Healthy,BCA,No,4.0,4.0,No
+140801,Chhavi,Female,47.0,Nashik,Working Professional,Financial Analyst,,3.0,,,2.0,Less than 5 hours,Moderate,B.Com,Yes,11.0,1.0,No
+140802,Anvi,Female,28.0,Vadodara,Student,,4.0,,5.56,3.0,,Less than 5 hours,Moderate,BHM,Yes,2.0,4.0,No
+140803,Armaan,Male,40.0,Ludhiana,Working Professional,Teacher,,3.0,,,1.0,7-8 hours,Moderate,B.Pharm,Yes,2.0,2.0,No
+140804,Rishi,Male,47.0,Jaipur,Working Professional,Financial Analyst,,1.0,,,4.0,7-8 hours,Moderate,B.Com,Yes,6.0,2.0,Yes
+140805,Mahika,Female,38.0,Patna,Working Professional,Teacher,,4.0,,,3.0,Less than 5 hours,Healthy,B.Pharm,Yes,11.0,4.0,No
+140806,Aakash,Male,55.0,Agra,Working Professional,Judge,,2.0,,,2.0,7-8 hours,Moderate,LLB,No,0.0,2.0,No
+140807,Kartikeya,Male,32.0,Kanpur,Student,,4.0,,6.42,3.0,,7-8 hours,Healthy,BE,Yes,10.0,3.0,Yes
+140808,Khushi,Female,22.0,Vasai-Virar,Student,,4.0,,8.07,2.0,,More than 8 hours,Moderate,BHM,Yes,4.0,3.0,No
+140809,Tanya,Female,59.0,Vasai-Virar,Working Professional,Teacher,,2.0,,,1.0,7-8 hours,Unhealthy,MCA,Yes,1.0,3.0,No
+140810,Esha,Female,38.0,Lucknow,Working Professional,Lawyer,,2.0,,,4.0,More than 8 hours,Moderate,LLB,No,12.0,5.0,No
+140811,Arnav,Male,30.0,Bangalore,Student,,3.0,,9.86,4.0,,More than 8 hours,Unhealthy,LLM,Yes,6.0,4.0,Yes
+140812,Jiya,Female,38.0,Vadodara,Working Professional,Teacher,,2.0,,,2.0,7-8 hours,Unhealthy,MD,No,7.0,1.0,No
+140813,Advait,Male,39.0,Rajkot,Working Professional,Consultant,,2.0,,,4.0,More than 8 hours,Moderate,PhD,No,4.0,2.0,No
+140814,Arnav,Male,53.0,Bangalore,Working Professional,Educational Consultant,,3.0,,,4.0,7-8 hours,Moderate,B.Ed,Yes,1.0,3.0,Yes
+140815,Garima,Female,44.0,Lucknow,Working Professional,Chemist,,5.0,,,3.0,7-8 hours,Moderate,M.Pharm,Yes,8.0,4.0,Yes
+140816,Ivaan,Male,19.0,Varanasi,Working Professional,Doctor,,5.0,,,3.0,7-8 hours,Unhealthy,B.Pharm,No,11.0,2.0,No
+140817,Ishaan,Male,31.0,Ghaziabad,Student,,4.0,,9.71,2.0,,More than 8 hours,Moderate,PhD,No,10.0,1.0,No
+140818,Rohan,Male,46.0,Kolkata,Working Professional,Software Engineer,,1.0,,,3.0,7-8 hours,Healthy,BTech,Yes,7.0,2.0,No
+140819,Sanket,Male,19.0,Jaipur,Working Professional,Travel Consultant,,4.0,,,4.0,Less than 5 hours,Unhealthy,BHM,Yes,11.0,3.0,No
+140820,Anvi,Female,57.0,Nagpur,Working Professional,Teacher,,1.0,,,4.0,Less than 5 hours,Healthy,M.Pharm,Yes,11.0,3.0,No
+140821,Aishwarya,Female,20.0,Ludhiana,Student,,4.0,,8.93,5.0,,5-6 hours,Healthy,Class 12,No,9.0,2.0,No
+140822,Aaradhya,Female,35.0,Mumbai,Working Professional,Manager,,3.0,,,3.0,Less than 5 hours,Moderate,BHM,No,11.0,2.0,No
+140823,Rudra,Male,52.0,Meerut,Working Professional,Digital Marketer,,4.0,,,2.0,Less than 5 hours,Moderate,MA,No,4.0,3.0,No
+140824,Raghavendra,Male,39.0,Rajkot,Working Professional,Business Analyst,,2.0,,,2.0,7-8 hours,Moderate,BSc,Yes,7.0,3.0,No
+140825,Shreya,Female,31.0,Ahmedabad,Working Professional,Teacher,,1.0,,,3.0,More than 8 hours,Moderate,MBA,No,2.0,4.0,No
+140826,Ivaan,Male,56.0,Rajkot,Working Professional,Software Engineer,,3.0,,,2.0,7-8 hours,Healthy,MCA,No,1.0,3.0,No
+140827,Garima,Female,40.0,Jaipur,Working Professional,UX/UI Designer,,4.0,,,4.0,More than 8 hours,Healthy,MSc,Yes,1.0,1.0,Yes
+140828,Ira,Female,43.0,Kalyan,Working Professional,Pharmacist,,3.0,,,1.0,5-6 hours,Moderate,MBBS,No,5.0,3.0,Yes
+140829,Nikhil,Male,20.0,Kolkata,Working Professional,,,5.0,,,3.0,5-6 hours,Moderate,Class 12,Yes,1.0,3.0,Yes
+140830,Shreya,Female,50.0,Agra,Working Professional,Customer Support,,3.0,,,2.0,More than 8 hours,Moderate,BA,No,7.0,4.0,No
+140831,Siddhesh,Male,56.0,Vasai-Virar,Working Professional,Architect,,3.0,,,5.0,Less than 5 hours,Moderate,B.Arch,Yes,1.0,3.0,No
+140832,Aariv,Male,43.0,Kanpur,Working Professional,Teacher,,2.0,,,3.0,7-8 hours,Healthy,B.Arch,No,9.0,2.0,No
+140833,Tanisha,Female,20.0,Srinagar,Student,,5.0,,7.94,4.0,,7-8 hours,Moderate,Class 12,Yes,0.0,3.0,Yes
+140834,Aryan,Male,33.0,Nashik,Student,,3.0,,5.12,3.0,,7-8 hours,Healthy,MBA,No,5.0,3.0,No
+140835,Rishi,Male,23.0,Thane,Working Professional,Sales Executive,,2.0,,,4.0,Less than 5 hours,Healthy,B.Com,No,1.0,2.0,No
+140836,Tushar,Male,54.0,Kolkata,Working Professional,Teacher,,4.0,,,4.0,More than 8 hours,Moderate,B.Com,No,5.0,2.0,Yes
+140837,Aaradhya,Female,55.0,Vasai-Virar,Working Professional,Teacher,,4.0,,,2.0,Less than 5 hours,Unhealthy,B.Arch,No,0.0,3.0,No
+140838,Mahi,Female,53.0,Jaipur,Working Professional,Teacher,,2.0,,,3.0,5-6 hours,Unhealthy,LLB,No,12.0,4.0,No
+140839,Ranveer,Male,35.0,Ahmedabad,Working Professional,Travel Consultant,,5.0,,,4.0,7-8 hours,Healthy,MHM,Yes,3.0,3.0,Yes
+140840,Ansh,Male,21.0,Srinagar,Student,,4.0,,7.48,2.0,,Less than 5 hours,Moderate,B.Arch,No,6.0,4.0,No
+140841,Advait,Male,59.0,Pune,Working Professional,Educational Consultant,,5.0,,,2.0,More than 8 hours,Moderate,B.Ed,No,7.0,1.0,Yes
+140842,Zara,Female,26.0,Jaipur,Working Professional,Teacher,,3.0,,,1.0,More than 8 hours,Moderate,B.Arch,Yes,9.0,2.0,No
+140843,Yuvraj,Male,53.0,Kolkata,Working Professional,Teacher,,5.0,,,4.0,5-6 hours,Healthy,LLB,Yes,9.0,2.0,No
+140844,Vihaan,Male,56.0,Vadodara,Working Professional,Financial Analyst,,3.0,,,2.0,More than 8 hours,Healthy,B.Com,No,3.0,3.0,Yes
+140845,Ansh,Male,58.0,Vasai-Virar,Working Professional,Content Writer,,1.0,,,5.0,5-6 hours,Moderate,M.Ed,Yes,3.0,1.0,Yes
+140846,Krishna,Male,33.0,Hyderabad,Working Professional,,,5.0,,,4.0,5-6 hours,Healthy,Class 12,Yes,12.0,4.0,Yes
+140847,Vihaan,Male,58.0,Pune,Working Professional,Teacher,,3.0,,,4.0,7-8 hours,Moderate,B.Pharm,Yes,0.0,4.0,Yes
+140848,Aaradhya,Female,59.0,Bhopal,Working Professional,Customer Support,,3.0,,,1.0,5-6 hours,Unhealthy,BA,Yes,11.0,4.0,Yes
+140849,Sanya,Female,60.0,Ludhiana,Working Professional,Educational Consultant,,5.0,,,3.0,7-8 hours,Healthy,M.Ed,No,1.0,2.0,Yes
+140850,Rishi,Male,57.0,Vadodara,Working Professional,Lawyer,,3.0,,,1.0,Less than 5 hours,Unhealthy,LLB,Yes,4.0,4.0,Yes
+140851,Raghav,Male,58.0,Pune,Working Professional,Mechanical Engineer,,3.0,,,4.0,Less than 5 hours,Moderate,M.Tech,No,2.0,1.0,No
+140852,Aishwarya,Female,37.0,Hyderabad,Working Professional,Architect,,2.0,,,2.0,More than 8 hours,Healthy,BCA,Yes,3.0,5.0,No
+140853,Yogesh,Male,24.0,Jaipur,Working Professional,Architect,,5.0,,,1.0,Less than 5 hours,Moderate,B.Arch,No,0.0,1.0,No
+140854,Prisha,Female,55.0,Delhi,Working Professional,Teacher,,1.0,,,4.0,5-6 hours,Healthy,MD,No,4.0,3.0,No
+140855,Kashish,Female,25.0,Ghaziabad,Student,,1.0,,9.74,3.0,,5-6 hours,Healthy,BHM,No,7.0,5.0,Yes
+140856,Yashvi,Female,43.0,Pune,Working Professional,HR Manager,,2.0,,,4.0,More than 8 hours,Healthy,BCA,No,1.0,1.0,No
+140857,Prisha,Female,18.0,Chennai,Student,,5.0,,5.66,2.0,,5-6 hours,Unhealthy,Class 12,No,11.0,2.0,Yes
+140858,Rupal,Female,33.0,Kalyan,Student,,2.0,,5.12,3.0,,More than 8 hours,Unhealthy,M.Ed,Yes,11.0,1.0,Yes
+140859,Vedant,Male,20.0,Thane,Working Professional,Marketing Manager,,1.0,,,2.0,More than 8 hours,Healthy,BA,No,9.0,4.0,Yes
+140860,Simran,Female,26.0,Vasai-Virar,Student,,5.0,,6.38,1.0,,Less than 5 hours,Unhealthy,ME,No,9.0,5.0,No
+140861,Tanvi,Female,41.0,Varanasi,Working Professional,,,4.0,,,2.0,More than 8 hours,Healthy,Class 12,No,0.0,2.0,Yes
+140862,Harshil,Male,25.0,Ghaziabad,Student,,4.0,,7.04,1.0,,5-6 hours,Unhealthy,BSc,Yes,1.0,2.0,No
+140863,Shreya,Female,36.0,Bhopal,Working Professional,Teacher,,5.0,,,3.0,5-6 hours,Unhealthy,LLM,No,5.0,3.0,No
+140864,Sanya,Female,57.0,Mumbai,Working Professional,Teacher,,2.0,,,4.0,5-6 hours,Moderate,B.Arch,Yes,1.0,1.0,Yes
+140865,Kashish,Female,19.0,Agra,Student,,4.0,,8.59,2.0,,5-6 hours,Moderate,Class 12,Yes,6.0,1.0,Yes
+140866,Ansh,Male,26.0,Lucknow,Student,,3.0,,8.61,3.0,,Less than 5 hours,Unhealthy,M.Tech,Yes,7.0,2.0,Yes
+140867,Pranav,Male,59.0,Chennai,Working Professional,Teacher,,2.0,,,4.0,Less than 5 hours,Healthy,LLB,Yes,9.0,4.0,No
+140868,Abhishek,Male,60.0,Surat,Working Professional,Teacher,,3.0,,,1.0,5-6 hours,Healthy,MA,Yes,2.0,1.0,Yes
+140869,Rohan,Male,57.0,Hyderabad,Working Professional,Data Scientist,,1.0,,,2.0,7-8 hours,Healthy,BCA,No,1.0,3.0,Yes
+140870,Riya,Female,48.0,Ludhiana,Working Professional,HR Manager,,5.0,,,4.0,7-8 hours,Healthy,PhD,Yes,1.0,5.0,No
+140871,Diya,Female,49.0,Rajkot,Working Professional,Educational Consultant,,3.0,,,2.0,7-8 hours,Unhealthy,B.Ed,No,6.0,3.0,No
+140872,Diya,Female,42.0,Patna,Working Professional,HR Manager,,2.0,,,2.0,7-8 hours,Healthy,M.Tech,No,8.0,4.0,Yes
+140873,Pranav,Male,32.0,Meerut,Student,,1.0,,7.88,3.0,,Less than 5 hours,Unhealthy,B.Arch,No,10.0,5.0,No
+140874,Raghavendra,Male,57.0,Kolkata,Working Professional,Pilot,,3.0,,,2.0,7-8 hours,Unhealthy,M.Tech,No,6.0,2.0,Yes
+140875,Tanvi,Female,32.0,Kolkata,Student,,1.0,,9.88,3.0,,More than 8 hours,Moderate,MBBS,No,6.0,2.0,Yes
+140876,Aanchal,Female,54.0,Pune,Working Professional,Teacher,,4.0,,,4.0,7-8 hours,Healthy,B.Ed,No,9.0,4.0,Yes
+140877,Rashi,Female,18.0,Vasai-Virar,Working Professional,,,5.0,,,5.0,More than 8 hours,Healthy,Class 12,No,4.0,2.0,No
+140878,Siddhesh,Male,39.0,Jaipur,Working Professional,Manager,,1.0,,,1.0,More than 8 hours,Moderate,BHM,No,5.0,4.0,No
+140879,Anvi,Female,18.0,Chennai,Working Professional,,,5.0,,,1.0,5-6 hours,Moderate,Class 12,Yes,10.0,5.0,No
+140880,Ishaani,Female,59.0,Agra,Working Professional,Content Writer,,3.0,,,3.0,Less than 5 hours,Healthy,B.Ed,No,7.0,2.0,No
+140881,Arav,Male,27.0,Kanpur,Working Professional,Content Writer,,3.0,,,3.0,7-8 hours,Unhealthy,M.Ed,Yes,2.0,2.0,No
+140882,Aariv,Male,56.0,Kanpur,Working Professional,Financial Analyst,,3.0,,,3.0,7-8 hours,Healthy,M.Com,No,7.0,1.0,No
+140883,Rajat,Male,33.0,Vasai-Virar,Working Professional,Teacher,,2.0,,,1.0,7-8 hours,Moderate,LLM,No,2.0,1.0,Yes
+140884,Mahika,Female,51.0,Delhi,Working Professional,Teacher,,2.0,,,3.0,More than 8 hours,Unhealthy,B.Pharm,No,2.0,5.0,Yes
+140885,Rupak,Male,23.0,Kalyan,Student,,1.0,,8.9,2.0,,More than 8 hours,Healthy,M.Com,No,3.0,5.0,No
+140886,Ira,Female,18.0,Ahmedabad,Working Professional,,,4.0,,,1.0,7-8 hours,Healthy,Class 12,Yes,0.0,4.0,No
+140887,Vibha,Female,48.0,Chennai,Working Professional,Manager,,1.0,,,2.0,7-8 hours,Healthy,BHM,No,4.0,5.0,Yes
+140888,Nishant,Male,28.0,Kolkata,Student,,5.0,,8.74,5.0,,More than 8 hours,Moderate,B.Arch,No,11.0,3.0,No
+140889,Vidhi,Female,57.0,Srinagar,Working Professional,Doctor,,2.0,,,4.0,Less than 5 hours,Moderate,MBBS,No,1.0,1.0,Yes
+140890,Sanya,Female,35.0,Visakhapatnam,Working Professional,Content Writer,,4.0,,,4.0,Less than 5 hours,Unhealthy,B.Ed,Yes,1.0,4.0,Yes
+140891,Ila,Female,36.0,Delhi,Working Professional,Travel Consultant,,3.0,,,2.0,7-8 hours,Unhealthy,MHM,No,0.0,2.0,Yes
+140892,Ritvik,Male,50.0,Patna,Working Professional,Data Scientist,,1.0,,,3.0,7-8 hours,Healthy,MSc,No,9.0,5.0,Yes
+140893,Anjali,Female,58.0,Meerut,Working Professional,Travel Consultant,,4.0,,,4.0,Less than 5 hours,Healthy,MHM,Yes,4.0,5.0,Yes
+140894,Janvi,Female,47.0,Vadodara,Working Professional,HR Manager,,3.0,,,3.0,More than 8 hours,Healthy,MBA,Yes,3.0,5.0,Yes
+140895,Raghav,Male,18.0,Kalyan,Working Professional,,,2.0,,,2.0,More than 8 hours,Unhealthy,Class 12,No,1.0,5.0,No
+140896,Raghavendra,Male,46.0,Nagpur,Working Professional,Pilot,,5.0,,,2.0,5-6 hours,Unhealthy,BCA,No,8.0,2.0,No
+140897,Aadhya,Female,40.0,Jaipur,Working Professional,Chef,,4.0,,,5.0,5-6 hours,Unhealthy,BHM,Yes,5.0,1.0,No
+140898,Anushka,Female,24.0,Indore,Working Professional,Chemist,,1.0,,,4.0,5-6 hours,Healthy,MBBS,No,11.0,2.0,No
+140899,Anushka,Female,39.0,Vasai-Virar,Working Professional,HR Manager,,2.0,,,3.0,5-6 hours,Healthy,BA,Yes,4.0,2.0,No
+140900,Harshil,Male,55.0,Nashik,Working Professional,Data Scientist,,1.0,,,4.0,Less than 5 hours,Unhealthy,B.Tech,No,8.0,3.0,No
+140901,Vrinda,Female,23.0,Kalyan,Student,,1.0,,7.47,4.0,,7-8 hours,Healthy,M.Com,Yes,10.0,5.0,Yes
+140902,Harsh,Male,49.0,Chennai,Working Professional,Data Scientist,,3.0,,,2.0,7-8 hours,Moderate,BCA,No,5.0,3.0,No
+140903,Tanisha,Female,25.0,Bhopal,Student,,5.0,,8.94,2.0,,5-6 hours,Unhealthy,B.Ed,Yes,5.0,3.0,No
+140904,Rohan,Male,59.0,Thane,Working Professional,Entrepreneur,,5.0,,,4.0,More than 8 hours,Unhealthy,BBA,Yes,5.0,2.0,No
+140905,Pranav,Male,42.0,Visakhapatnam,Working Professional,Teacher,,5.0,,,5.0,7-8 hours,Moderate,BA,No,12.0,5.0,No
+140906,Vedant,Male,42.0,Patna,Working Professional,Finanancial Analyst,,3.0,,,3.0,More than 8 hours,Moderate,ME,No,3.0,5.0,No
+140907,Ritik,Male,57.0,Varanasi,Working Professional,Teacher,,4.0,,,2.0,7-8 hours,Healthy,B.Pharm,Yes,11.0,2.0,Yes
+140908,Sneha,Female,56.0,Faridabad,Working Professional,Teacher,,3.0,,,2.0,More than 8 hours,Healthy,B.Ed,Yes,0.0,5.0,No
+140909,Raunak,Male,24.0,Jaipur,Student,,5.0,,8.65,5.0,,More than 8 hours,Unhealthy,B.Tech,No,6.0,5.0,Yes
+140910,Krishna,Male,58.0,Kolkata,Working Professional,HR Manager,,5.0,,,4.0,5-6 hours,Moderate,BBA,No,12.0,1.0,Yes
+140911,Tushar,Male,36.0,Mumbai,Working Professional,Teacher,,5.0,,,1.0,More than 8 hours,Healthy,LLM,Yes,3.0,3.0,No
+140912,Kavya,Female,30.0,Ahmedabad,Working Professional,Chef,,4.0,,,4.0,7-8 hours,Unhealthy,BHM,No,11.0,2.0,Yes
+140913,Vidhi,Female,37.0,Bangalore,Working Professional,Travel Consultant,,4.0,,,5.0,Less than 5 hours,Healthy,MHM,Yes,4.0,3.0,No
+140914,Vedant,Male,41.0,Agra,Working Professional,Teacher,,5.0,,,5.0,7-8 hours,Unhealthy,B.Tech,No,10.0,2.0,No
+140915,Pari,Female,29.0,Surat,Student,,3.0,,5.88,4.0,,5-6 hours,Moderate,B.Arch,No,3.0,1.0,No
+140916,Pallavi,Female,41.0,Jaipur,Working Professional,Entrepreneur,,4.0,,,4.0,7-8 hours,Healthy,ME,No,9.0,1.0,Yes
+140917,Sanya,Female,40.0,Agra,Working Professional,Accountant,,3.0,,,1.0,5-6 hours,Moderate,B.Com,Yes,12.0,4.0,Yes
+140918,Ishaani,Female,37.0,Surat,Working Professional,Teacher,,4.0,,,1.0,Less than 5 hours,Unhealthy,B.Ed,Yes,10.0,5.0,No
+140919,Shiv,Male,49.0,Ludhiana,Working Professional,Pharmacist,,3.0,,,1.0,5-6 hours,Unhealthy,MD,No,9.0,1.0,Yes
+140920,Esha,Female,58.0,Chennai,Working Professional,Teacher,,2.0,,,5.0,Less than 5 hours,Unhealthy,BBA,No,1.0,2.0,No
+140921,Parth,Male,39.0,Jaipur,Working Professional,Consultant,,5.0,,,2.0,5-6 hours,Healthy,BBA,No,10.0,4.0,No
+140922,Tushar,Male,18.0,Thane,Student,,4.0,,6.1,3.0,,5-6 hours,Unhealthy,Class 12,Yes,2.0,4.0,No
+140923,Anvi,Female,24.0,Kanpur,Working Professional,Teacher,,2.0,,,2.0,More than 8 hours,Healthy,LLM,No,11.0,4.0,No
+140924,Advait,Male,51.0,Ahmedabad,Working Professional,Doctor,,2.0,,,3.0,5-6 hours,Moderate,M.Pharm,No,5.0,2.0,Yes
+140925,Arnav,Male,19.0,Varanasi,Working Professional,,,2.0,,,5.0,5-6 hours,Unhealthy,Class 12,Yes,12.0,4.0,No
+140926,Pari,Female,38.0,Varanasi,Working Professional,Teacher,,2.0,,,2.0,7-8 hours,Moderate,B.Ed,No,2.0,4.0,Yes
+140927,Rohan,Male,48.0,Pune,Working Professional,Content Writer,,1.0,,,4.0,Less than 5 hours,Healthy,M.Ed,No,9.0,1.0,No
+140928,Saanvi,Female,53.0,Patna,Working Professional,Content Writer,,1.0,,,3.0,5-6 hours,Moderate,B.Ed,Yes,9.0,2.0,Yes
+140929,Rupak,Male,56.0,Lucknow,Working Professional,Teacher,,2.0,,,2.0,7-8 hours,Unhealthy,LLB,No,8.0,2.0,Yes
+140930,Vidhi,Female,59.0,Srinagar,Working Professional,Marketing Manager,,5.0,,,4.0,5-6 hours,Unhealthy,BA,No,12.0,5.0,No
+140931,Sanket,Male,39.0,Bangalore,Working Professional,Financial Analyst,,3.0,,,4.0,5-6 hours,Moderate,B.Com,No,1.0,2.0,Yes
+140932,Nandini,Female,21.0,Bhopal,Working Professional,Architect,,2.0,,,3.0,More than 8 hours,Moderate,B.Arch,No,9.0,1.0,Yes
+140933,Chirag,Male,19.0,Varanasi,Working Professional,,,5.0,,,3.0,Less than 5 hours,Unhealthy,Class 12,Yes,10.0,4.0,Yes
+140934,Riya,Female,19.0,Varanasi,Working Professional,,,2.0,,,2.0,Less than 5 hours,Moderate,Class 12,Yes,7.0,4.0,No
+140935,Esha,Female,51.0,Kolkata,Working Professional,Architect,,4.0,,,1.0,Less than 5 hours,Unhealthy,BSc,Yes,11.0,5.0,No
+140936,Raghavendra,Male,24.0,Kalyan,Working Professional,Graphic Designer,,5.0,,,1.0,Less than 5 hours,Unhealthy,M.Tech,Yes,7.0,1.0,No
+140937,Apoorva,Female,48.0,Nashik,Working Professional,Customer Support,,5.0,,,1.0,More than 8 hours,Unhealthy,MA,No,2.0,2.0,Yes
+140938,Vedant,Male,30.0,Nagpur,Working Professional,Teacher,,1.0,,,3.0,5-6 hours,Moderate,LLB,No,4.0,3.0,No
+140939,Armaan,Male,55.0,Vasai-Virar,Working Professional,Teacher,,4.0,,,5.0,7-8 hours,Moderate,MA,No,6.0,1.0,Yes
+140940,Ritik,Male,18.0,Bangalore,Student,,5.0,,8.14,1.0,,Less than 5 hours,Moderate,Class 12,Yes,12.0,5.0,No
+140941,Harsha,Male,48.0,Visakhapatnam,Working Professional,Teacher,,2.0,,,4.0,5-6 hours,Moderate,B.Ed,Yes,0.0,2.0,No
+140942,Vidhi,Female,57.0,Pune,Working Professional,Teacher,,4.0,,,3.0,More than 8 hours,Healthy,M.Com,No,12.0,5.0,No
+140943,Tanisha,Female,59.0,Mumbai,Working Professional,Lawyer,,2.0,,,2.0,7-8 hours,Moderate,LLM,No,5.0,2.0,Yes
+140944,Naina,Female,27.0,Srinagar,Student,,5.0,,8.04,5.0,,More than 8 hours,Moderate,BHM,Yes,10.0,3.0,No
+140945,Vani,Female,53.0,Bangalore,Working Professional,Research Analyst,,3.0,,,5.0,5-6 hours,Healthy,MBA,Yes,3.0,1.0,No
+140946,Ritik,Male,44.0,Faridabad,Working Professional,Accountant,,2.0,,,4.0,Less than 5 hours,Healthy,M.Com,No,5.0,2.0,No
+140947,Rupal,Female,36.0,Mumbai,Working Professional,Entrepreneur,,4.0,,,2.0,Less than 5 hours,Healthy,BBA,No,5.0,2.0,Yes
+140948,Raghav,Male,21.0,Kalyan,Working Professional,Research Analyst,,3.0,,,3.0,5-6 hours,Unhealthy,BBA,Yes,4.0,4.0,No
+140949,Garima,Female,46.0,Jaipur,Working Professional,Teacher,,5.0,,,4.0,5-6 hours,Unhealthy,M.Tech,No,6.0,2.0,No
+140950,Anvi,Female,39.0,Visakhapatnam,Working Professional,Chemist,,2.0,,,4.0,7-8 hours,Moderate,M.Pharm,No,10.0,4.0,No
+140951,Anika,Female,50.0,Nashik,Working Professional,Entrepreneur,,1.0,,,4.0,7-8 hours,Unhealthy,MSc,No,7.0,2.0,Yes
+140952,Rupa,Female,55.0,Mumbai,Working Professional,Finanancial Analyst,,1.0,,,2.0,5-6 hours,Healthy,MCA,Yes,4.0,5.0,Yes
+140953,Yuvraj,Male,35.0,Rajkot,Working Professional,Judge,,3.0,,,3.0,Less than 5 hours,Unhealthy,LLB,Yes,10.0,3.0,Yes
+140954,Raghav,Male,55.0,Kalyan,Working Professional,Pilot,,2.0,,,4.0,7-8 hours,Moderate,B.Tech,Yes,8.0,2.0,Yes
+140955,Aarohi,Female,47.0,Bhopal,Working Professional,Research Analyst,,3.0,,,1.0,More than 8 hours,Moderate,MBA,Yes,5.0,2.0,No
+140956,Gagan,Male,39.0,Mumbai,Working Professional,Consultant,,5.0,,,4.0,7-8 hours,Unhealthy,B.Com,No,6.0,1.0,Yes
+140957,Ayush,Male,31.0,Patna,Student,,3.0,,5.75,1.0,,Less than 5 hours,Moderate,MBA,No,6.0,4.0,No
+140958,Rahil,Male,39.0,Vasai-Virar,Working Professional,Content Writer,,5.0,,,2.0,Less than 5 hours,Moderate,B.Ed,No,12.0,2.0,Yes
+140959,Shruti,Female,42.0,Bangalore,Working Professional,Researcher,,3.0,,,2.0,Less than 5 hours,Unhealthy,PhD,Yes,10.0,5.0,No
+140960,Lakshay,Male,51.0,Varanasi,Working Professional,Accountant,,3.0,,,2.0,5-6 hours,Moderate,B.Com,Yes,6.0,3.0,Yes
+140961,Aniket,Male,52.0,Srinagar,Working Professional,Teacher,,2.0,,,3.0,Less than 5 hours,Unhealthy,B.Ed,Yes,9.0,4.0,Yes
+140962,Shivam,Male,40.0,Srinagar,Working Professional,Teacher,,3.0,,,3.0,7-8 hours,Moderate,B.Tech,No,2.0,2.0,Yes
+140963,Gauri,Female,57.0,Kalyan,Working Professional,Architect,,3.0,,,5.0,Less than 5 hours,Unhealthy,BCA,No,10.0,1.0,Yes
+140964,Aditi,Female,41.0,Indore,Working Professional,Data Scientist,,1.0,,,5.0,7-8 hours,Healthy,BCA,No,8.0,3.0,Yes
+140965,Yogesh,Male,25.0,Chennai,Working Professional,HR Manager,,2.0,,,2.0,7-8 hours,Unhealthy,MA,No,11.0,5.0,No
+140966,Ansh,Male,49.0,Faridabad,Working Professional,Content Writer,,4.0,,,2.0,Less than 5 hours,Moderate,ME,No,8.0,1.0,Yes
+140967,Hrithik,Male,52.0,Kolkata,Working Professional,Plumber,,2.0,,,3.0,Less than 5 hours,Unhealthy,ME,Yes,3.0,5.0,Yes
+140968,Gagan,Male,46.0,Surat,Working Professional,Consultant,,4.0,,,5.0,More than 8 hours,Healthy,BSc,No,9.0,3.0,Yes
+140969,Vibha,Female,19.0,Chennai,Working Professional,,,1.0,,,5.0,7-8 hours,Unhealthy,Class 12,Yes,8.0,4.0,No
+140970,Shruti,Female,51.0,Delhi,Working Professional,Judge,,2.0,,,2.0,5-6 hours,Healthy,LLB,Yes,4.0,5.0,No
+140971,Nishant,Male,32.0,Faridabad,Working Professional,Educational Consultant,,2.0,,,3.0,Less than 5 hours,Moderate,M.Ed,No,10.0,2.0,No
+140972,Sanket,Male,21.0,Meerut,Working Professional,Software Engineer,,1.0,,,4.0,7-8 hours,Moderate,BCA,No,2.0,1.0,No
+140973,Anvi,Female,39.0,Srinagar,Working Professional,Educational Consultant,,3.0,,,5.0,More than 8 hours,Healthy,B.Ed,Yes,12.0,4.0,Yes
+140974,Rupal,Female,38.0,Meerut,Working Professional,Teacher,,1.0,,,3.0,7-8 hours,Unhealthy,B.Arch,No,1.0,2.0,Yes
+140975,Eshita,Female,28.0,Meerut,Student,,1.0,,9.56,3.0,,5-6 hours,Healthy,BSc,No,0.0,2.0,Yes
+140976,Veda,Female,43.0,Ahmedabad,Working Professional,Lawyer,,5.0,,,2.0,7-8 hours,Unhealthy,LLM,Yes,8.0,2.0,No
+140977,Kartik,Male,50.0,Ahmedabad,Working Professional,Content Writer,,2.0,,,5.0,7-8 hours,Unhealthy,ME,Yes,9.0,5.0,Yes
+140978,Kashish,Female,30.0,Kalyan,Student,,3.0,,7.35,4.0,,5-6 hours,Moderate,LLB,Yes,10.0,3.0,No
+140979,Parth,Male,52.0,Vasai-Virar,Working Professional,Chemist,,4.0,,,4.0,More than 8 hours,Unhealthy,MD,No,5.0,4.0,Yes
+140980,Apoorva,Female,49.0,Rajkot,Working Professional,Lawyer,,1.0,,,5.0,More than 8 hours,Moderate,LLM,Yes,10.0,5.0,Yes
+140981,Pooja,Female,22.0,Jaipur,Student,,3.0,,7.48,4.0,,Less than 5 hours,Healthy,MSc,Yes,0.0,5.0,No
+140982,Ila,Female,28.0,Rajkot,Student,,5.0,,8.78,2.0,,7-8 hours,Moderate,BBA,Yes,6.0,2.0,Yes
+140983,Rupak,Male,56.0,Hyderabad,Working Professional,Architect,,5.0,,,5.0,Less than 5 hours,Healthy,B.Arch,No,3.0,5.0,Yes
+140984,Rishi,Male,44.0,Pune,Working Professional,Teacher,,3.0,,,5.0,7-8 hours,Moderate,MBBS,Yes,0.0,4.0,No
+140985,Anvi,Female,59.0,Visakhapatnam,Working Professional,Architect,,5.0,,,4.0,7-8 hours,Healthy,MSc,Yes,6.0,5.0,Yes
+140986,Raunak,Male,36.0,Meerut,Working Professional,Architect,,4.0,,,2.0,5-6 hours,Unhealthy,MCA,No,0.0,1.0,No
+140987,Ayaan,Male,43.0,Srinagar,Working Professional,Educational Consultant,,3.0,,,4.0,5-6 hours,Unhealthy,B.Ed,No,9.0,2.0,Yes
+140988,Rahil,Male,56.0,Varanasi,Working Professional,Content Writer,,5.0,,,3.0,More than 8 hours,Healthy,MA,No,0.0,5.0,No
+140989,Arav,Male,34.0,Ghaziabad,Working Professional,Teacher,,5.0,,,2.0,Less than 5 hours,Moderate,B.Pharm,Yes,7.0,3.0,No
+140990,Garima,Female,57.0,Jaipur,Working Professional,Data Scientist,,1.0,,,2.0,7-8 hours,Healthy,B.Tech,Yes,3.0,5.0,Yes
+140991,Atharv,Male,23.0,Vasai-Virar,Working Professional,Content Writer,,4.0,,,5.0,Less than 5 hours,Healthy,ME,Yes,0.0,4.0,No
+140992,Gauri,Female,51.0,Kolkata,Working Professional,Business Analyst,,4.0,,,2.0,More than 8 hours,Moderate,BSc,Yes,5.0,5.0,Yes
+140993,Krishna,Male,56.0,Jaipur,Working Professional,Pilot,,1.0,,,1.0,7-8 hours,Unhealthy,MSc,No,12.0,4.0,Yes
+140994,Kanika,Female,21.0,Vasai-Virar,Student,,4.0,,6.26,2.0,,7-8 hours,Unhealthy,BHM,Yes,12.0,5.0,No
+140995,Rupal,Female,57.0,Kanpur,Working Professional,Electrician,,2.0,,,3.0,7-8 hours,Healthy,BCA,Yes,11.0,2.0,Yes
+140996,Palak,Female,59.0,Varanasi,Working Professional,Architect,,2.0,,,1.0,7-8 hours,Unhealthy,B.Arch,No,5.0,5.0,Yes
+140997,Raghavendra,Male,59.0,Jaipur,Working Professional,Lawyer,,1.0,,,2.0,More than 8 hours,Moderate,LLB,No,8.0,2.0,Yes
+140998,Mira,Female,59.0,Thane,Working Professional,Travel Consultant,,3.0,,,2.0,5-6 hours,Unhealthy,MHM,No,10.0,1.0,No
+140999,Vibha,Female,47.0,Chennai,Working Professional,Content Writer,,2.0,,,5.0,Less than 5 hours,Moderate,B.Tech,Yes,9.0,3.0,Yes
+141000,Jhanvi,Female,39.0,Ludhiana,Working Professional,HR Manager,,1.0,,,4.0,More than 8 hours,Moderate,MA,No,9.0,5.0,Yes
+141001,Vani,Female,48.0,Ahmedabad,Working Professional,Graphic Designer,,5.0,,,4.0,5-6 hours,Healthy,BCA,Yes,7.0,4.0,No
+141002,Harsh,Male,55.0,Rajkot,Working Professional,Teacher,,2.0,,,2.0,Less than 5 hours,Healthy,BCA,Yes,6.0,4.0,Yes
+141003,Shiv,Male,26.0,Kanpur,Working Professional,Architect,,1.0,,,2.0,7-8 hours,Healthy,B.Arch,No,8.0,5.0,Yes
+141004,Rohan,Male,46.0,Ghaziabad,Working Professional,HR Manager,,5.0,,,1.0,Less than 5 hours,Unhealthy,MBA,Yes,7.0,1.0,No
+141005,Yuvraj,Male,46.0,Vadodara,Working Professional,Research Analyst,,3.0,,,2.0,5-6 hours,Unhealthy,MBA,No,10.0,3.0,Yes
+141006,Shivansh,Male,51.0,Nagpur,Working Professional,Customer Support,,2.0,,,4.0,5-6 hours,Healthy,BA,No,11.0,1.0,Yes
+141007,Raghav,Male,45.0,Varanasi,Working Professional,Mechanical Engineer,,5.0,,,2.0,7-8 hours,Moderate,BCA,No,10.0,1.0,Yes
+141008,Jiya,Female,45.0,Chennai,Working Professional,,,4.0,,,4.0,Less than 5 hours,Moderate,Class 12,Yes,9.0,2.0,Yes
+141009,Ritvik,Male,53.0,Kalyan,Working Professional,Accountant,,1.0,,,1.0,7-8 hours,Unhealthy,B.Com,Yes,5.0,2.0,No
+141010,Aryan,Male,21.0,Mumbai,Student,,1.0,,7.09,5.0,,More than 8 hours,Unhealthy,MSc,No,10.0,3.0,No
+141011,Jhanvi,Female,29.0,Varanasi,Student,,2.0,,8.59,2.0,,More than 8 hours,Healthy,BE,Yes,11.0,4.0,No
+141012,Shrey,Male,24.0,Lucknow,Student,,5.0,,8.24,4.0,,7-8 hours,Unhealthy,B.Arch,Yes,8.0,5.0,Yes
+141013,Dhruv,Male,23.0,Kolkata,Working Professional,Chemist,,1.0,,,1.0,7-8 hours,Unhealthy,B.Pharm,Yes,0.0,4.0,No
+141014,Charvi,Female,41.0,Mumbai,Working Professional,Teacher,,2.0,,,4.0,7-8 hours,Unhealthy,MCA,Yes,7.0,4.0,Yes
+141015,Ivaan,Male,37.0,Bangalore,Working Professional,Teacher,,4.0,,,5.0,Less than 5 hours,Moderate,B.Pharm,Yes,10.0,2.0,Yes
+141016,Vivaan,Male,60.0,Patna,Working Professional,Finanancial Analyst,,4.0,,,2.0,5-6 hours,Moderate,BCA,No,12.0,2.0,Yes
+141017,Nishant,Male,36.0,Faridabad,Working Professional,Business Analyst,,3.0,,,2.0,More than 8 hours,Moderate,BSc,Yes,10.0,5.0,Yes
+141018,Ritvik,Male,23.0,Thane,Working Professional,Data Scientist,,5.0,,,4.0,More than 8 hours,Healthy,BCA,No,6.0,3.0,No
+141019,Parth,Male,18.0,Kolkata,Student,,5.0,,8.21,4.0,,7-8 hours,Moderate,Class 12,Yes,6.0,5.0,Yes
+141020,Vaishnavi,Female,45.0,Chennai,Working Professional,Teacher,,5.0,,,5.0,7-8 hours,Moderate,BSc,Yes,5.0,1.0,No
+141021,Shivam,Male,47.0,Agra,Working Professional,Business Analyst,,1.0,,,4.0,7-8 hours,Healthy,B.Tech,Yes,10.0,3.0,Yes
+141022,Advait,Male,46.0,Patna,Working Professional,HR Manager,,1.0,,,1.0,7-8 hours,Unhealthy,PhD,No,5.0,1.0,No
+141023,Jhanvi,Female,54.0,Faridabad,Working Professional,Civil Engineer,,2.0,,,4.0,5-6 hours,Healthy,ME,No,0.0,3.0,Yes
+141024,Sanya,Female,43.0,Patna,Working Professional,Digital Marketer,,1.0,,,2.0,7-8 hours,Healthy,M.Com,No,0.0,3.0,No
+141025,Ritik,Male,57.0,Varanasi,Working Professional,Doctor,,2.0,,,4.0,Less than 5 hours,Unhealthy,B.Pharm,No,12.0,1.0,No
+141026,Naina,Female,58.0,Surat,Working Professional,Teacher,,4.0,,,2.0,Less than 5 hours,Healthy,ME,Yes,3.0,1.0,No
+141027,Anirudh,Male,42.0,Patna,Working Professional,Mechanical Engineer,,4.0,,,3.0,5-6 hours,Healthy,BSc,No,5.0,4.0,No
+141028,Darsh,Male,33.0,Surat,Working Professional,Digital Marketer,,2.0,,,5.0,More than 8 hours,Moderate,B.Com,No,5.0,2.0,Yes
+141029,Riya,Female,54.0,Chennai,Working Professional,Entrepreneur,,2.0,,,2.0,Less than 5 hours,Moderate,MCA,No,6.0,2.0,Yes
+141030,Anand,Male,18.0,Srinagar,Working Professional,,,5.0,,,1.0,Less than 5 hours,Unhealthy,Class 12,Yes,10.0,5.0,Yes
+141031,Aarav,Male,44.0,Kanpur,Working Professional,Data Scientist,,4.0,,,4.0,More than 8 hours,Moderate,MCA,Yes,3.0,4.0,Yes
+141032,Prisha,Female,27.0,Thane,Student,,5.0,,9.04,2.0,,5-6 hours,Unhealthy,MCA,Yes,3.0,5.0,Yes
+141033,Aanchal,Female,36.0,Meerut,Working Professional,Content Writer,,5.0,,,2.0,More than 8 hours,Moderate,B.Ed,Yes,0.0,1.0,Yes
+141034,Vedant,Male,60.0,Mumbai,Working Professional,Teacher,,3.0,,,5.0,More than 8 hours,Moderate,LLM,No,12.0,2.0,Yes
+141035,Saanvi,Female,33.0,Chennai,Working Professional,,,2.0,,,2.0,7-8 hours,Unhealthy,Class 12,No,0.0,4.0,No
+141036,Utkarsh,Male,40.0,Kalyan,Working Professional,Architect,,4.0,,,1.0,7-8 hours,Healthy,B.Arch,Yes,11.0,3.0,No
+141037,Kanika,Female,54.0,Chennai,Working Professional,Consultant,,4.0,,,1.0,7-8 hours,Healthy,B.Tech,No,6.0,4.0,Yes
+141038,Raghav,Male,44.0,Srinagar,Working Professional,Teacher,,1.0,,,5.0,More than 8 hours,Healthy,B.Arch,No,6.0,3.0,No
+141039,Esha,Female,29.0,Kalyan,Student,,3.0,,7.04,5.0,,Less than 5 hours,Moderate,LLB,Yes,11.0,3.0,No
+141040,Rohan,Male,43.0,Ghaziabad,Working Professional,Consultant,,1.0,,,5.0,5-6 hours,Healthy,MSc,Yes,12.0,3.0,Yes
+141041,Yashvi,Female,38.0,Vasai-Virar,Working Professional,Electrician,,1.0,,,5.0,5-6 hours,Unhealthy,ME,Yes,0.0,5.0,No
+141042,Aarav,Male,47.0,Vadodara,Working Professional,Teacher,,1.0,,,2.0,Less than 5 hours,Unhealthy,B.Ed,Yes,11.0,1.0,Yes
+141043,Aahana,Female,57.0,Pune,Working Professional,Teacher,,2.0,,,5.0,5-6 hours,Moderate,M.Ed,No,4.0,1.0,No
+141044,Rishi,Male,46.0,Pune,Working Professional,Teacher,,1.0,,,1.0,7-8 hours,Moderate,M.Ed,No,5.0,1.0,Yes
+141045,Aarya,Female,53.0,Vadodara,Working Professional,Teacher,,2.0,,,2.0,5-6 hours,Moderate,M.Tech,No,3.0,2.0,Yes
+141046,Atharv,Male,58.0,Thane,Working Professional,Architect,,3.0,,,4.0,More than 8 hours,Unhealthy,B.Arch,Yes,1.0,5.0,No
+141047,Nikhil,Male,20.0,Kanpur,Working Professional,,,5.0,,,3.0,7-8 hours,Unhealthy,Class 12,No,9.0,3.0,No
+141048,Sanya,Female,40.0,Visakhapatnam,Working Professional,Consultant,,1.0,,,3.0,More than 8 hours,Moderate,BSc,No,0.0,4.0,No
+141049,Raunak,Male,41.0,Bangalore,Working Professional,Pharmacist,,5.0,,,4.0,More than 8 hours,Unhealthy,MD,No,3.0,4.0,Yes
+141050,Kavya,Female,54.0,Meerut,Working Professional,Teacher,,2.0,,,3.0,Less than 5 hours,Unhealthy,MCA,No,7.0,3.0,No
+141051,Aaradhya,Female,47.0,Meerut,Working Professional,Chef,,3.0,,,1.0,Less than 5 hours,Unhealthy,BHM,Yes,4.0,3.0,Yes
+141052,Trisha,Female,50.0,Vadodara,Working Professional,Content Writer,,4.0,,,2.0,Less than 5 hours,Healthy,B.Ed,No,1.0,2.0,No
+141053,Vani,Female,20.0,Mumbai,Student,,3.0,,9.44,5.0,,More than 8 hours,Moderate,Class 12,Yes,11.0,5.0,Yes
+141054,Aanchal,Female,21.0,Srinagar,Working Professional,Teacher,,4.0,,,2.0,Less than 5 hours,Unhealthy,MBBS,Yes,1.0,4.0,Yes
+141055,Reyansh,Male,54.0,Srinagar,Working Professional,Pilot,,4.0,,,3.0,7-8 hours,Moderate,BE,Yes,3.0,2.0,Yes
+141056,Raunak,Male,18.0,Lucknow,Working Professional,,,2.0,,,5.0,More than 8 hours,Unhealthy,Class 12,No,12.0,2.0,Yes
+141057,Arav,Male,54.0,Bangalore,Working Professional,Judge,,3.0,,,3.0,7-8 hours,Moderate,LLB,Yes,11.0,5.0,Yes
+141058,Kiran,Female,20.0,Ghaziabad,Student,,5.0,,8.21,1.0,,Less than 5 hours,Unhealthy,Class 12,Yes,7.0,2.0,Yes
+141059,Siddhesh,Male,37.0,Indore,Working Professional,Pharmacist,,2.0,,,4.0,Less than 5 hours,Unhealthy,M.Pharm,Yes,0.0,1.0,No
+141060,Utkarsh,Male,23.0,Kanpur,Working Professional,Content Writer,,1.0,,,3.0,Less than 5 hours,Healthy,B.Ed,Yes,4.0,1.0,No
+141061,Aarav,Male,21.0,Vasai-Virar,Student,,1.0,,6.37,4.0,,7-8 hours,Healthy,B.Com,Yes,4.0,3.0,Yes
+141062,Jai,Male,54.0,Pune,Working Professional,Mechanical Engineer,,4.0,,,2.0,More than 8 hours,Healthy,B.Tech,No,9.0,4.0,No
+141063,Aarush,Male,41.0,Vasai-Virar,Working Professional,Consultant,,1.0,,,4.0,Less than 5 hours,Unhealthy,PhD,Yes,2.0,5.0,Yes
+141064,Esha,Female,39.0,Kolkata,Working Professional,Content Writer,,2.0,,,5.0,More than 8 hours,Moderate,B.Ed,No,9.0,3.0,Yes
+141065,Reyansh,Male,34.0,Kanpur,Working Professional,,,5.0,,,1.0,Less than 5 hours,Unhealthy,Class 12,Yes,11.0,5.0,No
+141066,Aariv,Male,57.0,Vasai-Virar,Working Professional,Content Writer,,3.0,,,4.0,More than 8 hours,Healthy,BCA,Yes,7.0,4.0,No
+141067,Nikhil,Male,51.0,Delhi,Working Professional,Content Writer,,5.0,,,1.0,Less than 5 hours,Moderate,B.Ed,Yes,2.0,4.0,No
+141068,Vani,Female,40.0,Agra,Working Professional,Teacher,,1.0,,,2.0,More than 8 hours,Unhealthy,B.Arch,Yes,1.0,5.0,Yes
+141069,Anvi,Female,26.0,Hyderabad,Working Professional,Data Scientist,,4.0,,,3.0,More than 8 hours,Healthy,BCA,No,11.0,2.0,No
+141070,Raunak,Male,57.0,Pune,Working Professional,,,5.0,,,3.0,7-8 hours,Moderate,Class 12,Yes,0.0,3.0,Yes
+141071,Riya,Female,51.0,Chennai,Working Professional,Researcher,,4.0,,,1.0,Less than 5 hours,Moderate,MCA,No,9.0,5.0,Yes
+141072,Armaan,Male,26.0,Jaipur,Student,,4.0,,5.74,3.0,,7-8 hours,Healthy,BE,No,9.0,3.0,Yes
+141073,Aaradhya,Female,49.0,Kolkata,Working Professional,Chef,,2.0,,,3.0,5-6 hours,Healthy,MHM,Yes,3.0,3.0,Yes
+141074,Sanya,Female,37.0,Indore,Working Professional,Teacher,,5.0,,,5.0,5-6 hours,Healthy,B.Pharm,Yes,12.0,1.0,Yes
+141075,Rupak,Male,54.0,Ludhiana,Working Professional,Content Writer,,1.0,,,3.0,More than 8 hours,Moderate,M.Ed,Yes,2.0,1.0,Yes
+141076,Nandini,Female,55.0,Kanpur,Working Professional,Research Analyst,,3.0,,,2.0,More than 8 hours,Unhealthy,BBA,Yes,10.0,2.0,Yes
+141077,Mayank,Male,55.0,Srinagar,Working Professional,Content Writer,,1.0,,,4.0,7-8 hours,Moderate,PhD,No,11.0,4.0,Yes
+141078,Ansh,Male,49.0,Vasai-Virar,Working Professional,Teacher,,1.0,,,1.0,Less than 5 hours,Unhealthy,B.Arch,No,1.0,4.0,Yes
+141079,Raghav,Male,40.0,Bangalore,Working Professional,HR Manager,,3.0,,,3.0,5-6 hours,Moderate,BE,Yes,7.0,5.0,Yes
+141080,Om,Male,24.0,Kalyan,Working Professional,Teacher,,3.0,,,4.0,Less than 5 hours,Unhealthy,B.Arch,Yes,1.0,5.0,Yes
+141081,Raghav,Male,18.0,Kolkata,Working Professional,,,5.0,,,5.0,Less than 5 hours,Unhealthy,Class 12,Yes,5.0,4.0,Yes
+141082,Kunal,Male,51.0,Ahmedabad,Working Professional,Plumber,,5.0,,,5.0,7-8 hours,Moderate,MCA,No,7.0,4.0,No
+141083,Ritika,Female,51.0,Vasai-Virar,Working Professional,Entrepreneur,,4.0,,,3.0,7-8 hours,Healthy,MSc,No,7.0,3.0,No
+141084,Nikhaan,Male,18.0,Delhi,Student,,5.0,,7.52,1.0,,More than 8 hours,Unhealthy,Class 12,Yes,10.0,5.0,No
+141085,Ansh,Male,55.0,Ghaziabad,Working Professional,Investment Banker,,3.0,,,3.0,More than 8 hours,Unhealthy,BBA,Yes,2.0,2.0,Yes
+141086,Nishant,Male,19.0,Patna,Student,,1.0,,5.87,4.0,,More than 8 hours,Healthy,Class 12,No,1.0,1.0,No
+141087,Rupal,Female,57.0,Delhi,Working Professional,Software Engineer,,3.0,,,2.0,More than 8 hours,Healthy,MCA,Yes,6.0,5.0,No
+141088,Armaan,Male,51.0,Nagpur,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Healthy,M.Ed,No,0.0,5.0,No
+141089,Abhinav,Male,54.0,Pune,Working Professional,Entrepreneur,,2.0,,,4.0,7-8 hours,Moderate,PhD,No,6.0,3.0,No
+141090,Harsh,Male,56.0,Indore,Working Professional,Researcher,,2.0,,,3.0,More than 8 hours,Moderate,M.Tech,No,10.0,3.0,No
+141091,Pranav,Male,56.0,Patna,Working Professional,Teacher,,3.0,,,1.0,5-6 hours,Moderate,B.Arch,Yes,4.0,3.0,Yes
+141092,Veda,Female,33.0,Vasai-Virar,Student,,4.0,,8.74,3.0,,Less than 5 hours,Healthy,LLM,Yes,4.0,1.0,Yes
+141093,Vaanya,Female,54.0,Agra,Working Professional,Marketing Manager,,2.0,,,4.0,More than 8 hours,Moderate,BA,Yes,2.0,2.0,Yes
+141094,Aariv,Male,38.0,Delhi,Working Professional,Architect,,1.0,,,3.0,7-8 hours,Unhealthy,B.Arch,Yes,7.0,3.0,Yes
+141095,Apoorva,Female,37.0,Jaipur,Working Professional,Teacher,,4.0,,,3.0,Less than 5 hours,Moderate,B.Arch,Yes,12.0,1.0,Yes
+141096,Yash,Male,25.0,Chennai,Student,,2.0,,9.41,4.0,,5-6 hours,Moderate,B.Ed,Yes,12.0,5.0,Yes
+141097,Veda,Female,48.0,Indore,Working Professional,Entrepreneur,,1.0,,,3.0,More than 8 hours,Unhealthy,MBA,Yes,5.0,5.0,No
+141098,Pratham,Male,21.0,Patna,Student,,2.0,,9.44,2.0,,7-8 hours,Moderate,B.Com,No,0.0,5.0,No
+141099,Kartikeya,Male,37.0,Kolkata,Working Professional,Business Analyst,,4.0,,,5.0,More than 8 hours,Moderate,BSc,No,9.0,2.0,No
+141100,Reyansh,Male,20.0,Agra,Working Professional,,,2.0,,,5.0,More than 8 hours,Moderate,Class 12,No,2.0,1.0,No
+141101,Mihir,Male,59.0,Rajkot,Working Professional,Researcher,,4.0,,,2.0,5-6 hours,Unhealthy,ME,Yes,1.0,1.0,Yes
+141102,Tushar,Male,57.0,Ludhiana,Working Professional,Educational Consultant,,3.0,,,1.0,5-6 hours,Moderate,B.Ed,No,2.0,5.0,No
+141103,Ivaan,Male,49.0,Thane,Working Professional,Teacher,,3.0,,,4.0,Less than 5 hours,Moderate,B.Ed,No,4.0,5.0,Yes
+141104,Keshav,Male,53.0,Kanpur,Working Professional,Pilot,,2.0,,,3.0,5-6 hours,Moderate,B.Tech,No,0.0,1.0,Yes
+141105,Janvi,Female,50.0,Kolkata,Working Professional,,,5.0,,,5.0,5-6 hours,Moderate,Class 12,No,5.0,3.0,Yes
+141106,Vikram,Male,59.0,Vasai-Virar,Working Professional,HR Manager,,1.0,,,2.0,More than 8 hours,Unhealthy,BSc,Yes,11.0,1.0,Yes
+141107,Prachi,Female,42.0,Vadodara,Working Professional,Content Writer,,3.0,,,4.0,More than 8 hours,Moderate,B.Ed,Yes,0.0,1.0,Yes
+141108,Prachi,Female,60.0,Kanpur,Working Professional,HR Manager,,3.0,,,2.0,5-6 hours,Moderate,BE,Yes,0.0,4.0,Yes
+141109,Aryan,Male,32.0,Chennai,Working Professional,,,5.0,,,1.0,Less than 5 hours,Moderate,Class 12,Yes,8.0,5.0,Yes
+141110,Aaradhya,Female,44.0,Ghaziabad,Working Professional,Mechanical Engineer,,5.0,,,4.0,Less than 5 hours,Healthy,BE,Yes,6.0,2.0,Yes
+141111,Aanchal,Female,59.0,Nashik,Working Professional,Content Writer,,3.0,,,4.0,Less than 5 hours,Healthy,B.Ed,No,11.0,2.0,No
+141112,Aarti,Female,29.0,Visakhapatnam,Student,,5.0,,7.85,2.0,,7-8 hours,Unhealthy,M.Ed,Yes,10.0,3.0,No
+141113,Harsh,Male,56.0,Bangalore,Working Professional,Content Writer,,2.0,,,4.0,7-8 hours,Moderate,ME,Yes,0.0,4.0,No
+141114,Advait,Male,31.0,Patna,Working Professional,HR Manager,,5.0,,,5.0,7-8 hours,Healthy,BA,No,3.0,4.0,No
+141115,Ila,Female,53.0,Nagpur,Working Professional,Sales Executive,,4.0,,,3.0,More than 8 hours,Unhealthy,BBA,No,6.0,1.0,No
+141116,Aarav,Male,33.0,Hyderabad,Student,,3.0,,9.41,1.0,,7-8 hours,Unhealthy,MCA,Yes,11.0,4.0,Yes
+141117,Jhanvi,Female,27.0,Nashik,Student,,5.0,,5.87,2.0,,More than 8 hours,Unhealthy,MSc,Yes,12.0,4.0,Yes
+141118,Aarav,Male,19.0,Ludhiana,Student,,3.0,,5.03,2.0,,Less than 5 hours,Healthy,Class 12,Yes,5.0,5.0,Yes
+141119,Riya,Female,42.0,Srinagar,Working Professional,Business Analyst,,3.0,,,5.0,More than 8 hours,Unhealthy,M.Com,No,9.0,3.0,Yes
+141120,Bhavna,Female,19.0,Ahmedabad,Working Professional,,,1.0,,,4.0,Less than 5 hours,Moderate,Class 12,Yes,12.0,2.0,No
+141121,Kian,Male,48.0,Delhi,Working Professional,Pharmacist,,3.0,,,4.0,More than 8 hours,Moderate,B.Pharm,Yes,0.0,1.0,Yes
+141122,Anaya,Female,22.0,Srinagar,Student,,4.0,,7.5,3.0,,7-8 hours,Moderate,BSc,Yes,8.0,2.0,No
+141123,Shreya,Female,53.0,Jaipur,Working Professional,Educational Consultant,,2.0,,,3.0,Less than 5 hours,Unhealthy,B.Ed,No,2.0,2.0,No
+141124,Shlok,Male,33.0,Delhi,Working Professional,UX/UI Designer,,4.0,,,4.0,5-6 hours,Moderate,PhD,Yes,5.0,4.0,Yes
+141125,Palak,Female,57.0,Varanasi,Working Professional,Accountant,,4.0,,,2.0,More than 8 hours,Unhealthy,M.Com,No,4.0,4.0,No
+141126,Shivansh,Male,27.0,Srinagar,Working Professional,Teacher,,2.0,,,5.0,Less than 5 hours,Moderate,B.Arch,No,10.0,2.0,No
+141127,Shivam,Male,59.0,Mumbai,Working Professional,Teacher,,2.0,,,2.0,7-8 hours,Moderate,MA,Yes,9.0,5.0,Yes
+141128,Aarti,Female,50.0,Delhi,Working Professional,Content Writer,,4.0,,,2.0,7-8 hours,Healthy,M.Ed,No,6.0,2.0,Yes
+141129,Rupak,Male,60.0,Ludhiana,Working Professional,Teacher,,2.0,,,4.0,7-8 hours,Moderate,B.Arch,No,11.0,5.0,No
+141130,Siddhesh,Male,39.0,Nagpur,Working Professional,Doctor,,2.0,,,2.0,More than 8 hours,Moderate,M.Pharm,No,5.0,1.0,Yes
+141131,Vikram,Male,43.0,Mumbai,Working Professional,Business Analyst,,4.0,,,4.0,5-6 hours,Moderate,BCA,No,10.0,2.0,No
+141132,Naina,Female,50.0,Thane,Working Professional,Sales Executive,,4.0,,,5.0,Less than 5 hours,Healthy,BBA,Yes,9.0,1.0,Yes
+141133,Nandini,Female,30.0,Kalyan,Student,,3.0,,9.29,5.0,,5-6 hours,Unhealthy,MA,Yes,10.0,4.0,No
+141134,Vani,Female,54.0,Indore,Working Professional,Customer Support,,2.0,,,5.0,5-6 hours,Unhealthy,BA,Yes,11.0,3.0,No
+141135,Raghav,Male,43.0,Chennai,Working Professional,Teacher,,4.0,,,5.0,Less than 5 hours,Moderate,B.Ed,No,5.0,1.0,No
+141136,Reyansh,Male,60.0,Agra,Working Professional,Teacher,,2.0,,,1.0,Less than 5 hours,Moderate,M.Tech,No,6.0,4.0,No
+141137,Ritika,Female,48.0,Pune,Working Professional,Teacher,,2.0,,,4.0,7-8 hours,Moderate,B.Arch,No,2.0,5.0,Yes
+141138,Sanya,Female,25.0,Rajkot,Working Professional,Doctor,,4.0,,,4.0,Less than 5 hours,Healthy,MD,No,12.0,3.0,Yes
+141139,Kartik,Male,60.0,Kolkata,Working Professional,Chef,,1.0,,,4.0,7-8 hours,Healthy,MHM,No,6.0,1.0,Yes
+141140,Sanya,Female,25.0,Patna,Working Professional,Educational Consultant,,2.0,,,2.0,5-6 hours,Healthy,B.Ed,Yes,9.0,2.0,Yes
+141141,Rohan,Male,24.0,Agra,Student,,5.0,,9.54,2.0,,5-6 hours,Unhealthy,B.Tech,Yes,3.0,2.0,No
+141142,Tejas,Male,29.0,Kalyan,Student,,2.0,,5.74,3.0,,Less than 5 hours,Healthy,LLB,No,12.0,1.0,No
+141143,Aishwarya,Female,38.0,Bangalore,Working Professional,Chemist,,4.0,,,1.0,5-6 hours,Unhealthy,M.Pharm,Yes,1.0,3.0,No
+141144,Siddhi,Female,55.0,Srinagar,Working Professional,Entrepreneur,,4.0,,,2.0,More than 8 hours,Unhealthy,BBA,Yes,2.0,1.0,Yes
+141145,Dev,Male,48.0,Hyderabad,Working Professional,Entrepreneur,,1.0,,,3.0,7-8 hours,Unhealthy,BE,Yes,11.0,3.0,Yes
+141146,Rishi,Male,42.0,Meerut,Working Professional,Electrician,,5.0,,,1.0,Less than 5 hours,Moderate,M.Tech,Yes,0.0,5.0,Yes
+141147,Jai,Male,38.0,Jaipur,Working Professional,Data Scientist,,4.0,,,5.0,More than 8 hours,Moderate,BSc,No,0.0,5.0,Yes
+141148,Shreya,Female,38.0,Vadodara,Working Professional,Pilot,,3.0,,,3.0,7-8 hours,Unhealthy,BE,Yes,9.0,2.0,Yes
+141149,Anika,Female,47.0,Kanpur,Working Professional,Consultant,,3.0,,,1.0,7-8 hours,Healthy,B.Com,No,2.0,4.0,No
+141150,Ritvik,Male,25.0,Bangalore,Working Professional,Teacher,,2.0,,,4.0,Less than 5 hours,Moderate,B.Ed,No,2.0,3.0,Yes
+141151,Rahil,Male,39.0,Vasai-Virar,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Healthy,B.Ed,No,0.0,3.0,Yes
+141152,Atharv,Male,26.0,Pune,Student,,4.0,,6.37,3.0,,More than 8 hours,Moderate,B.Arch,Yes,9.0,5.0,No
+141153,Ritvik,Male,45.0,Indore,Working Professional,Business Analyst,,2.0,,,2.0,Less than 5 hours,Unhealthy,BBA,No,8.0,2.0,No
+141154,Reyansh,Male,21.0,Meerut,Working Professional,Manager,,3.0,,,1.0,Less than 5 hours,Unhealthy,BHM,Yes,9.0,5.0,Yes
+141155,Ishan,Male,27.0,Visakhapatnam,Student,,2.0,,8.89,1.0,,More than 8 hours,Moderate,B.Ed,Yes,3.0,4.0,No
+141156,Vani,Female,33.0,Ahmedabad,Working Professional,Teacher,,3.0,,,1.0,Less than 5 hours,Moderate,B.Ed,Yes,7.0,3.0,No
+141157,Kashish,Female,34.0,Nagpur,Working Professional,Educational Consultant,,1.0,,,3.0,More than 8 hours,Unhealthy,B.Ed,No,5.0,5.0,No
+141158,Ritika,Female,48.0,Bangalore,Working Professional,Data Scientist,,4.0,,,4.0,More than 8 hours,Healthy,BCA,Yes,3.0,5.0,No
+141159,Ishaani,Female,56.0,Pune,Working Professional,Teacher,,2.0,,,5.0,5-6 hours,Moderate,B.Pharm,No,1.0,2.0,Yes
+141160,Ritika,Female,41.0,Nagpur,Working Professional,Consultant,,1.0,,,2.0,Less than 5 hours,Moderate,B.Com,Yes,6.0,2.0,Yes
+141161,Kiran,Male,57.0,Patna,Working Professional,Graphic Designer,,5.0,,,2.0,More than 8 hours,Healthy,BSc,No,9.0,1.0,No
+141162,Vidhi,Female,58.0,Bangalore,Working Professional,Teacher,,2.0,,,2.0,7-8 hours,Moderate,LLB,No,11.0,1.0,Yes
+141163,Harsha,Male,52.0,Ludhiana,Working Professional,Chef,,4.0,,,3.0,7-8 hours,Moderate,BHM,Yes,3.0,1.0,Yes
+141164,Ritika,Female,24.0,Pune,Student,,4.0,,7.5,4.0,,Less than 5 hours,Moderate,BSc,No,2.0,1.0,Yes
+141165,Shiv,Male,23.0,Ahmedabad,Student,,4.0,,9.93,1.0,,5-6 hours,Unhealthy,MSc,Yes,3.0,4.0,Yes
+141166,Dev,Male,44.0,Meerut,Working Professional,Unhealthy,,5.0,,,3.0,5-6 hours,Unhealthy,M.Ed,No,8.0,3.0,Yes
+141167,Pranav,Male,53.0,Thane,Working Professional,Customer Support,,2.0,,,5.0,Less than 5 hours,Unhealthy,BA,Yes,11.0,1.0,No
+141168,Ansh,Male,38.0,Varanasi,Working Professional,Manager,,3.0,,,1.0,More than 8 hours,Unhealthy,MHM,Yes,9.0,4.0,Yes
+141169,Ishwar,Male,20.0,Delhi,Student,,4.0,,8.52,1.0,,7-8 hours,Unhealthy,Class 12,No,11.0,1.0,Yes
+141170,Aaradhya,Female,29.0,Hyderabad,Student,,1.0,,7.47,2.0,,Less than 5 hours,Healthy,LLB,No,11.0,3.0,Yes
+141171,Himani,Female,30.0,Lucknow,Student,,3.0,,7.92,3.0,,Less than 5 hours,Unhealthy,B.Com,No,6.0,5.0,Yes
+141172,Vani,Female,46.0,Rajkot,Working Professional,Architect,,1.0,,,4.0,7-8 hours,Healthy,B.Arch,Yes,3.0,4.0,Yes
+141173,Aariv,Male,55.0,Kalyan,Working Professional,Financial Analyst,,4.0,,,2.0,5-6 hours,Healthy,M.Com,No,1.0,4.0,No
+141174,Chhavi,Female,28.0,Kolkata,Student,,3.0,,8.19,2.0,,5-6 hours,Healthy,BCA,No,11.0,3.0,Yes
+141175,Vidhi,Female,27.0,Kolkata,Student,,3.0,,7.94,2.0,,7-8 hours,Unhealthy,BHM,Yes,0.0,3.0,No
+141176,Anushka,Female,26.0,Hyderabad,Student,,3.0,,8.29,4.0,,7-8 hours,Healthy,BCA,Yes,6.0,4.0,No
+141177,Anvi,Female,32.0,Chennai,Working Professional,,,5.0,,,1.0,7-8 hours,Unhealthy,Class 12,No,7.0,5.0,Yes
+141178,Aaradhya,Female,44.0,Vasai-Virar,Working Professional,Civil Engineer,,5.0,,,1.0,Less than 5 hours,Unhealthy,M.Tech,Yes,0.0,5.0,No
+141179,Rhea,Female,50.0,Varanasi,Working Professional,Digital Marketer,,3.0,,,3.0,More than 8 hours,Unhealthy,B.Com,No,8.0,1.0,Yes
+141180,Harini,Female,39.0,Faridabad,Working Professional,Judge,,4.0,,,4.0,7-8 hours,Healthy,LLB,No,8.0,4.0,Yes
+141181,Ritik,Male,53.0,Mumbai,Working Professional,Entrepreneur,,2.0,,,3.0,Less than 5 hours,Healthy,BSc,No,1.0,3.0,No
+141182,Mayank,Male,18.0,Ludhiana,Working Professional,,,5.0,,,1.0,5-6 hours,Unhealthy,Class 12,Yes,2.0,5.0,Yes
+141183,Aarush,Male,24.0,Delhi,Working Professional,Software Engineer,,1.0,,,5.0,Less than 5 hours,Moderate,BE,No,5.0,2.0,Yes
+141184,Parth,Male,43.0,Kalyan,Working Professional,,,3.0,,,2.0,More than 8 hours,Healthy,Class 12,No,11.0,5.0,No
+141185,Vani,Female,24.0,Rajkot,Working Professional,Pilot,,1.0,,,5.0,7-8 hours,Healthy,MSc,Yes,12.0,5.0,No
+141186,Aarohi,Female,49.0,Kolkata,Working Professional,Business Analyst,,2.0,,,5.0,Less than 5 hours,Moderate,MCA,No,0.0,1.0,Yes
+141187,Shiv,Male,53.0,Patna,Working Professional,Software Engineer,,4.0,,,3.0,More than 8 hours,Unhealthy,BCA,Yes,10.0,3.0,No
+141188,Anand,Male,60.0,Bhopal,Working Professional,Educational Consultant,,3.0,,,2.0,More than 8 hours,Moderate,M.Ed,No,7.0,1.0,Yes
+141189,Advait,Male,33.0,Varanasi,Student,,2.0,,6.81,3.0,,7-8 hours,Unhealthy,BE,No,11.0,2.0,No
+141190,Arav,Male,58.0,Visakhapatnam,Working Professional,Teacher,,5.0,,,1.0,More than 8 hours,Moderate,B.Pharm,Yes,3.0,2.0,Yes
+141191,Rohan,Male,34.0,Pune,Working Professional,Civil Engineer,,2.0,,,5.0,7-8 hours,Moderate,BSc,Yes,8.0,3.0,No
+141192,Ritika,Female,39.0,Mumbai,Working Professional,Travel Consultant,,1.0,,,5.0,More than 8 hours,Unhealthy,MHM,Yes,7.0,4.0,Yes
+141193,Arav,Male,38.0,Lucknow,Working Professional,Judge,,2.0,,,3.0,5-6 hours,Unhealthy,LLM,No,5.0,1.0,No
+141194,Tara,Female,40.0,Visakhapatnam,Working Professional,Teacher,,1.0,,,3.0,More than 8 hours,Healthy,M.Tech,No,4.0,4.0,No
+141195,Aahana,Female,29.0,Rajkot,Student,,3.0,,5.08,3.0,,7-8 hours,Unhealthy,M.Com,No,2.0,4.0,Yes
+141196,Rupak,Male,33.0,Lucknow,Student,,5.0,,5.85,5.0,,7-8 hours,Moderate,PhD,Yes,8.0,1.0,Yes
+141197,Ranveer,Male,26.0,Rajkot,Student,,4.0,,5.85,4.0,,Less than 5 hours,Healthy,BBA,Yes,7.0,1.0,Yes
+141198,Pallavi,Female,28.0,Vasai-Virar,Student,,5.0,,7.17,4.0,,Less than 5 hours,Unhealthy,ME,Yes,10.0,5.0,Yes
+141199,Tushar,Male,32.0,Bangalore,Working Professional,UX/UI Designer,,4.0,,,1.0,More than 8 hours,Moderate,M.Tech,No,3.0,3.0,Yes
+141200,Armaan,Male,53.0,Bhopal,Working Professional,Lawyer,,4.0,,,4.0,More than 8 hours,Moderate,LLM,No,11.0,5.0,No
+141201,Rajat,Male,55.0,Meerut,Working Professional,Chemist,,2.0,,,3.0,5-6 hours,Healthy,M.Pharm,Yes,8.0,3.0,Yes
+141202,Vani,Female,36.0,Ahmedabad,Working Professional,,,5.0,,,1.0,7-8 hours,Moderate,Class 12,No,11.0,4.0,Yes
+141203,Reyansh,Male,39.0,Delhi,Working Professional,Digital Marketer,,1.0,,,1.0,Less than 5 hours,Moderate,B.Com,No,4.0,3.0,No
+141204,Ira,Female,49.0,Rajkot,Working Professional,Doctor,,4.0,,,1.0,Less than 5 hours,Moderate,MD,No,11.0,2.0,Yes
+141205,Aaradhya,Female,50.0,Varanasi,Working Professional,Chef,,2.0,,,5.0,7-8 hours,Moderate,BHM,Yes,4.0,5.0,Yes
+141206,Aarush,Male,31.0,Ludhiana,Working Professional,HR Manager,,4.0,,,5.0,7-8 hours,Unhealthy,ME,No,4.0,1.0,No
+141207,Ritika,Female,56.0,Chennai,Working Professional,Content Writer,,2.0,,,2.0,7-8 hours,Healthy,PhD,No,11.0,2.0,No
+141208,Isha,Female,38.0,Meerut,Working Professional,Marketing Manager,,3.0,,,3.0,Less than 5 hours,Unhealthy,BA,Yes,5.0,1.0,No
+141209,Rishi,Male,56.0,Meerut,Working Professional,Pharmacist,,2.0,,,2.0,More than 8 hours,Moderate,MD,Yes,6.0,3.0,No
+141210,Arnav,Male,46.0,Pune,Working Professional,Chemist,,4.0,,,4.0,7-8 hours,Moderate,B.Pharm,Yes,3.0,3.0,Yes
+141211,Dhruv,Male,56.0,Indore,Working Professional,Teacher,,2.0,,,5.0,More than 8 hours,Healthy,MCA,No,7.0,1.0,Yes
+141212,Abhishek,Male,53.0,Vasai-Virar,Working Professional,Lawyer,,2.0,,,2.0,7-8 hours,Moderate,LLB,No,10.0,1.0,Yes
+141213,Aadhya,Female,25.0,Kalyan,Student,,2.0,,7.51,5.0,,Less than 5 hours,Moderate,BSc,No,1.0,1.0,No
+141214,Suhani,Female,39.0,Thane,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Moderate,B.Pharm,No,0.0,1.0,Yes
+141215,Chhavi,Female,25.0,Chennai,Student,,3.0,,8.95,2.0,,7-8 hours,Healthy,B.Pharm,Yes,6.0,5.0,Yes
+141216,Ayansh,Male,31.0,Ghaziabad,Working Professional,Teacher,,3.0,,,5.0,More than 8 hours,Moderate,M.Pharm,Yes,10.0,1.0,No
+141217,Bhavesh,Male,46.0,Visakhapatnam,Working Professional,Mechanical Engineer,,5.0,,,4.0,5-6 hours,Moderate,PhD,No,4.0,5.0,Yes
+141218,Ayaan,Male,45.0,Meerut,Working Professional,Teacher,,1.0,,,5.0,Less than 5 hours,Unhealthy,B.Pharm,No,1.0,5.0,Yes
+141219,Vani,Female,30.0,Ahmedabad,Student,,4.0,,5.08,2.0,,7-8 hours,Healthy,LLM,Yes,10.0,4.0,No
+141220,Shiv,Male,28.0,Mumbai,Working Professional,Content Writer,,2.0,,,1.0,7-8 hours,Moderate,BA,No,2.0,4.0,Yes
+141221,Karishma,Female,55.0,Indore,Working Professional,Content Writer,,4.0,,,4.0,Less than 5 hours,Moderate,M.Ed,No,1.0,3.0,No
+141222,Tushar,Male,49.0,Ghaziabad,Working Professional,Travel Consultant,,3.0,,,3.0,Less than 5 hours,Moderate,MHM,Yes,1.0,4.0,Yes
+141223,Vani,Female,38.0,Varanasi,Working Professional,Lawyer,,1.0,,,4.0,0,Unhealthy,LLM,No,1.0,4.0,No
+141224,Vanya,Female,28.0,Meerut,Student,,5.0,,5.52,1.0,,7-8 hours,Moderate,B.Arch,Yes,10.0,5.0,No
+141225,Aarav,Male,55.0,Hyderabad,Working Professional,Researcher,,3.0,,,2.0,5-6 hours,Healthy,M.Tech,Yes,9.0,1.0,Yes
+141226,Pratham,Male,41.0,Ghaziabad,Working Professional,Business Analyst,,3.0,,,4.0,More than 8 hours,Healthy,M.Com,No,0.0,1.0,No
+141227,Sanket,Male,23.0,Bangalore,Student,,3.0,,8.95,3.0,,5-6 hours,Moderate,M.Tech,Yes,7.0,4.0,No
+141228,Tanya,Female,42.0,Vadodara,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Moderate,MBA,No,12.0,3.0,Yes
+141229,Neil,Male,39.0,Varanasi,Working Professional,Judge,,1.0,,,4.0,More than 8 hours,Healthy,LLM,No,12.0,1.0,No
+141230,Sanya,Female,44.0,Agra,Working Professional,Content Writer,,3.0,,,4.0,7-8 hours,Unhealthy,B.Ed,No,2.0,1.0,Yes
+141231,Aarav,Male,46.0,Kalyan,Working Professional,Mechanical Engineer,,4.0,,,4.0,5-6 hours,Unhealthy,BE,No,3.0,3.0,No
+141232,Vihaan,Male,51.0,Agra,Working Professional,Doctor,,1.0,,,4.0,5-6 hours,Moderate,M.Pharm,Yes,7.0,4.0,No
+141233,Rohan,Male,40.0,Surat,Working Professional,Graphic Designer,,1.0,,,5.0,5-6 hours,Moderate,BSc,No,10.0,5.0,Yes
+141234,Prachi,Female,50.0,Kanpur,Working Professional,Educational Consultant,,4.0,,,1.0,5-6 hours,Moderate,B.Ed,No,4.0,5.0,No
+141235,Aariv,Male,53.0,Visakhapatnam,Working Professional,Teacher,,1.0,,,5.0,7-8 hours,Healthy,M.Pharm,Yes,6.0,3.0,No
+141236,Shlok,Male,51.0,Ludhiana,Working Professional,HR Manager,,3.0,,,3.0,More than 8 hours,Moderate,MA,No,1.0,4.0,No
+141237,Armaan,Male,24.0,Kanpur,Student,,5.0,,7.7,1.0,,More than 8 hours,Moderate,BSc,Yes,10.0,3.0,No
+141238,Shivam,Male,39.0,Faridabad,Working Professional,Researcher,,4.0,,,4.0,5-6 hours,Unhealthy,MCA,No,8.0,4.0,No
+141239,Soham,Male,50.0,Indore,Working Professional,Architect,,3.0,,,1.0,Less than 5 hours,Moderate,B.Arch,Yes,7.0,2.0,Yes
+141240,Rupak,Male,31.0,Kalyan,Working Professional,Chemist,,1.0,,,2.0,7-8 hours,Healthy,M.Pharm,No,12.0,5.0,No
+141241,Rudransh,Male,46.0,Thane,Working Professional,Sales Executive,,2.0,,,4.0,More than 8 hours,Moderate,MBA,Yes,9.0,4.0,Yes
+141242,Aarav,Male,46.0,Kalyan,Working Professional,Content Writer,,1.0,,,2.0,7-8 hours,Moderate,BA,No,11.0,1.0,Yes
+141243,Ishaan,Male,36.0,Kolkata,Working Professional,Teacher,,4.0,,,2.0,7-8 hours,Healthy,MSc,No,12.0,1.0,No
+141244,Anushka,Female,56.0,Kolkata,Working Professional,HR Manager,,4.0,,,4.0,5-6 hours,Healthy,ME,Yes,2.0,5.0,Yes
+141245,Kian,Male,20.0,Indore,Student,,4.0,,9.96,2.0,,5-6 hours,Healthy,Class 12,Yes,5.0,4.0,No
+141246,Raghavendra,Male,30.0,Nagpur,Working Professional,,,5.0,,,5.0,7-8 hours,Moderate,Class 12,Yes,7.0,1.0,No
+141247,Prachi,Female,55.0,Kalyan,Working Professional,Content Writer,,2.0,,,4.0,Less than 5 hours,Unhealthy,MSc,Yes,12.0,4.0,No
+141248,Palak,Female,58.0,Vadodara,Working Professional,Teacher,,2.0,,,3.0,7-8 hours,Unhealthy,B.Arch,No,5.0,4.0,Yes
+141249,Raghav,Male,25.0,Lucknow,Student,,4.0,,6.73,3.0,,7-8 hours,Unhealthy,B.Pharm,Yes,8.0,1.0,No
+141250,Siddharth,Male,38.0,Ahmedabad,Working Professional,Business Analyst,,3.0,,,1.0,7-8 hours,Moderate,B.Com,No,0.0,2.0,No
+141251,Anirudh,Male,46.0,Rajkot,Working Professional,Judge,,1.0,,,5.0,More than 8 hours,Healthy,LLB,No,7.0,1.0,Yes
+141252,Khushi,Female,28.0,Lucknow,Student,,5.0,,8.07,5.0,,5-6 hours,Moderate,M.Pharm,Yes,10.0,5.0,No
+141253,Riya,Female,31.0,Chennai,Working Professional,Teacher,,3.0,,,4.0,7-8 hours,Moderate,LLB,Yes,7.0,1.0,No
+141254,Rupak,Male,53.0,Mumbai,Working Professional,Teacher,,2.0,,,2.0,7-8 hours,Unhealthy,B.Arch,No,10.0,1.0,Yes
+141255,Samar,Male,27.0,Nashik,Working Professional,Data Scientist,,5.0,,,2.0,Less than 5 hours,Unhealthy,B.Tech,Yes,9.0,1.0,Yes
+141256,Simran,Female,44.0,Pune,Working Professional,Financial Analyst,,5.0,,,2.0,Less than 5 hours,Moderate,B.Com,Yes,1.0,3.0,Yes
+141257,Shrey,Male,56.0,Indore,Working Professional,Pharmacist,,4.0,,,3.0,5-6 hours,Unhealthy,MD,No,6.0,5.0,No
+141258,Vikram,Male,49.0,Thane,Working Professional,Architect,,3.0,,,5.0,More than 8 hours,Unhealthy,BCA,Yes,10.0,1.0,No
+141259,Avni,Female,31.0,Patna,Student,,2.0,,8.21,5.0,,5-6 hours,Unhealthy,MBBS,No,9.0,5.0,Yes
+141260,Tanisha,Female,39.0,Meerut,Working Professional,Content Writer,,4.0,,,1.0,More than 8 hours,Moderate,M.Ed,No,0.0,2.0,Yes
+141261,Vidhi,Female,54.0,Kolkata,Working Professional,Travel Consultant,,2.0,,,2.0,Less than 5 hours,Healthy,MHM,No,2.0,5.0,No
+141262,Kriti,Female,36.0,Mumbai,Working Professional,Digital Marketer,,5.0,,,1.0,Less than 5 hours,Moderate,M.Com,Yes,9.0,1.0,No
+141263,Siddhesh,Male,50.0,Visakhapatnam,Working Professional,Teacher,,2.0,,,2.0,More than 8 hours,Healthy,B.Arch,Yes,11.0,4.0,Yes
+141264,Vibha,Female,28.0,Bhopal,Student,,4.0,,9.93,1.0,,More than 8 hours,Unhealthy,MCA,No,5.0,2.0,No
+141265,Aaradhya,Female,56.0,Srinagar,Working Professional,Chef,,5.0,,,3.0,Less than 5 hours,Moderate,BHM,No,4.0,2.0,No
+141266,Shivam,Male,38.0,Pune,Working Professional,Teacher,,3.0,,,2.0,7-8 hours,Moderate,B.Ed,No,6.0,5.0,No
+141267,Rupal,Female,27.0,Rajkot,Student,,2.0,,7.15,5.0,,5-6 hours,Unhealthy,BA,Yes,1.0,2.0,Yes
+141268,Rupak,Male,49.0,Meerut,Working Professional,Software Engineer,,5.0,,,5.0,7-8 hours,Healthy,BE,Yes,3.0,4.0,No
+141269,Vani,Female,48.0,Delhi,Working Professional,Chemist,,3.0,,,5.0,7-8 hours,Unhealthy,MD,Yes,12.0,4.0,No
+141270,Anvi,Female,57.0,Ludhiana,Working Professional,Pharmacist,,2.0,,,5.0,Less than 5 hours,Moderate,MBBS,No,12.0,2.0,No
+141271,Rohan,Male,43.0,Hyderabad,Working Professional,Architect,,2.0,,,5.0,More than 8 hours,Unhealthy,B.Arch,No,11.0,1.0,Yes
+141272,Arav,Male,46.0,Pune,Working Professional,Entrepreneur,,1.0,,,4.0,7-8 hours,Moderate,BCA,Yes,1.0,5.0,Yes
+141273,Yash,Male,37.0,Patna,Working Professional,Content Writer,,1.0,,,5.0,5-6 hours,Unhealthy,M.Ed,No,4.0,4.0,Yes
+141274,Rishi,Male,37.0,Kalyan,Working Professional,Teacher,,2.0,,,1.0,Less than 5 hours,Healthy,M.Pharm,Yes,5.0,5.0,No
+141275,Ishita,Female,29.0,Kalyan,Student,,4.0,,5.16,5.0,,Less than 5 hours,Moderate,MBA,Yes,12.0,5.0,No
+141276,Kunal,Male,41.0,Indore,Working Professional,Researcher,,2.0,,,2.0,5-6 hours,Unhealthy,ME,Yes,11.0,1.0,Yes
+141277,Kiran,Female,34.0,Bhopal,Student,,1.0,,9.24,3.0,,5-6 hours,Unhealthy,M.Ed,No,2.0,1.0,No
+141278,Anushka,Female,54.0,Vasai-Virar,Working Professional,Customer Support,,5.0,,,4.0,More than 8 hours,Healthy,BA,Yes,1.0,1.0,Yes
+141279,Simran,Female,21.0,Varanasi,Student,,1.0,,9.02,1.0,,Less than 5 hours,Healthy,B.Com,No,6.0,2.0,No
+141280,Aditya,Male,31.0,Nashik,Working Professional,Business Analyst,,1.0,,,1.0,7-8 hours,Moderate,M.Com,No,4.0,2.0,No
+141281,Sanket,Male,29.0,Srinagar,Working Professional,,,4.0,,,2.0,Less than 5 hours,Moderate,Class 12,No,8.0,4.0,No
+141282,Aditi,Female,27.0,Hyderabad,Working Professional,Architect,,5.0,,,3.0,Less than 5 hours,Unhealthy,BCA,Yes,8.0,1.0,No
+141283,Shreya,Female,27.0,Agra,Working Professional,Business Analyst,,5.0,,,2.0,More than 8 hours,Moderate,BSc,Yes,7.0,4.0,Yes
+141284,Rupal,Female,24.0,Thane,Student,,3.0,,9.44,3.0,,Less than 5 hours,Moderate,BHM,Yes,1.0,3.0,No
+141285,Vidhi,Female,18.0,Faridabad,Student,,4.0,,6.21,2.0,,7-8 hours,Unhealthy,Class 12,Yes,10.0,4.0,No
+141286,Shivam,Male,31.0,Surat,Working Professional,Teacher,,2.0,,,1.0,Less than 5 hours,Healthy,BA,No,0.0,1.0,No
+141287,Vani,Female,38.0,Ahmedabad,Working Professional,Data Scientist,,1.0,,,1.0,7-8 hours,Moderate,MCA,Yes,8.0,2.0,No
+141288,Kiran,Female,36.0,Nagpur,Working Professional,Customer Support,,2.0,,,2.0,Less than 5 hours,Healthy,BA,No,7.0,3.0,Yes
+141289,Damini,Female,49.0,Patna,Working Professional,Architect,,1.0,,,3.0,Less than 5 hours,Unhealthy,ME,Yes,5.0,2.0,No
+141290,Harsha,Male,22.0,Rajkot,Working Professional,Accountant,,5.0,,,2.0,7-8 hours,Unhealthy,B.Com,Yes,5.0,4.0,Yes
+141291,Jhanvi,Female,27.0,Kolkata,Student,,1.0,,6.43,5.0,,Less than 5 hours,Healthy,M.Tech,No,10.0,2.0,No
+141292,Aarav,Male,38.0,Jaipur,Working Professional,Digital Marketer,,5.0,,,1.0,Less than 5 hours,Moderate,M.Com,No,12.0,1.0,No
+141293,Keshav,Male,27.0,Srinagar,Student,,5.0,,5.85,3.0,,Less than 5 hours,Unhealthy,BBA,Yes,4.0,4.0,No
+141294,Tushar,Male,40.0,Vadodara,Working Professional,Teacher,,1.0,,,2.0,7-8 hours,Unhealthy,LLB,No,11.0,1.0,No
+141295,Gauri,Female,28.0,Varanasi,Working Professional,Travel Consultant,,2.0,,,4.0,5-6 hours,Moderate,MHM,Yes,3.0,2.0,Yes
+141296,Vedant,Male,18.0,Vadodara,Working Professional,,,1.0,,,4.0,More than 8 hours,Moderate,Class 12,No,5.0,1.0,No
+141297,Vivan,Male,23.0,Patna,Working Professional,Content Writer,,1.0,,,4.0,7-8 hours,Healthy,B.Ed,Yes,1.0,5.0,No
+141298,Ayaan,Male,28.0,Vadodara,Student,,5.0,,8.88,3.0,,7-8 hours,Unhealthy,M.Pharm,Yes,9.0,3.0,No
+141299,Chirag,Male,35.0,Patna,Working Professional,Content Writer,,5.0,,,4.0,7-8 hours,Healthy,M.Ed,No,4.0,3.0,No
+141300,Rohan,Male,57.0,Surat,Working Professional,Pilot,,2.0,,,2.0,5-6 hours,Unhealthy,M.Tech,No,7.0,3.0,Yes
+141301,Chirag,Male,45.0,Patna,Working Professional,Content Writer,,5.0,,,2.0,More than 8 hours,Moderate,PhD,Yes,11.0,3.0,Yes
+141302,Amit,Male,42.0,Pune,Working Professional,Data Scientist,,2.0,,,2.0,7-8 hours,Unhealthy,BCA,Yes,10.0,2.0,Yes
+141303,Ritika,Female,20.0,Meerut,Working Professional,,,4.0,,,4.0,5-6 hours,Healthy,Class 12,Yes,2.0,2.0,No
+141304,Anvi,Female,36.0,Srinagar,Working Professional,Teacher,,2.0,,,4.0,Less than 5 hours,Moderate,MD,No,6.0,3.0,No
+141305,Nirvaan,Male,22.0,Delhi,Student,,1.0,,7.94,3.0,,7-8 hours,Moderate,BSc,No,8.0,4.0,No
+141306,Sanjeev,Male,18.0,Indore,Working Professional,,,4.0,,,1.0,7-8 hours,Healthy,Class 12,No,7.0,4.0,Yes
+141307,Ritika,Female,43.0,Bangalore,Working Professional,Software Engineer,,5.0,,,5.0,7-8 hours,Healthy,MSc,No,0.0,5.0,Yes
+141308,Raghav,Male,44.0,Agra,Working Professional,Accountant,,1.0,,,4.0,More than 8 hours,Healthy,B.Com,No,10.0,1.0,No
+141309,Raghavendra,Male,52.0,Kanpur,Working Professional,Entrepreneur,,4.0,,,2.0,More than 8 hours,Healthy,MBA,No,12.0,2.0,No
+141310,Anvi,Female,49.0,Srinagar,Working Professional,Pharmacist,,4.0,,,1.0,7-8 hours,Moderate,MBBS,Yes,1.0,3.0,Yes
+141311,Apoorva,Female,51.0,Patna,Working Professional,Content Writer,,2.0,,,2.0,7-8 hours,Healthy,B.Ed,Yes,9.0,4.0,Yes
+141312,Aaradhya,Female,47.0,Kolkata,Working Professional,Data Scientist,,2.0,,,5.0,More than 8 hours,Healthy,BCA,No,4.0,4.0,Yes
+141313,Aarav,Male,56.0,Pune,Working Professional,Plumber,,3.0,,,3.0,More than 8 hours,Healthy,MCA,Yes,0.0,2.0,Yes
+141314,Ayaan,Male,28.0,Chennai,Student,,1.0,,7.94,2.0,,5-6 hours,Healthy,M.Tech,Yes,8.0,5.0,Yes
+141315,Mahi,Female,24.0,Faridabad,Working Professional,Pilot,,4.0,,,1.0,7-8 hours,Moderate,M.Tech,No,10.0,1.0,Yes
+141316,Aarav,Male,40.0,Ahmedabad,Working Professional,Architect,,3.0,,,4.0,5-6 hours,Healthy,BE,No,7.0,5.0,Yes
+141317,Ila,Female,56.0,Nagpur,Working Professional,Doctor,,1.0,,,3.0,Less than 5 hours,Moderate,B.Pharm,Yes,9.0,5.0,No
+141318,Ishwar,Male,54.0,Patna,Working Professional,Customer Support,,3.0,,,3.0,Less than 5 hours,Moderate,BA,No,6.0,5.0,No
+141319,Rupak,Male,59.0,Delhi,Working Professional,Judge,,1.0,,,3.0,5-6 hours,Healthy,LLB,Yes,6.0,1.0,No
+141320,Nikhil,Male,33.0,Patna,Student,,4.0,,7.53,3.0,,More than 8 hours,Healthy,B.Ed,Yes,12.0,3.0,No
+141321,Ritika,Female,42.0,Lucknow,Working Professional,Consultant,,5.0,,,2.0,7-8 hours,Healthy,PhD,No,2.0,1.0,No
+141322,Vidya,Female,43.0,Patna,Working Professional,Teacher,,5.0,,,1.0,More than 8 hours,Moderate,B.Ed,Yes,8.0,4.0,Yes
+141323,Tanya,Female,29.0,Bhopal,Student,,1.0,,6.16,2.0,,More than 8 hours,Unhealthy,B.Pharm,Yes,8.0,1.0,Yes
+141324,Tanya,Female,48.0,Ghaziabad,Working Professional,Teacher,,2.0,,,2.0,7-8 hours,Unhealthy,MD,Yes,1.0,2.0,Yes
+141325,Raghavendra,Male,24.0,Nagpur,Student,,4.0,,9.96,1.0,,7-8 hours,Unhealthy,B.Pharm,Yes,10.0,2.0,Yes
+141326,Shaurya,Male,47.0,Nagpur,Working Professional,Business Analyst,,1.0,,,2.0,More than 8 hours,Healthy,BCA,Yes,4.0,1.0,Yes
+141327,Ritvik,Male,53.0,Vadodara,Working Professional,Teacher,,4.0,,,5.0,More than 8 hours,Healthy,B.Ed,Yes,4.0,3.0,Yes
+141328,Aaradhya,Female,42.0,Lucknow,Working Professional,Accountant,,3.0,,,4.0,Less than 5 hours,Moderate,B.Com,Yes,9.0,5.0,No
+141329,Armaan,Male,53.0,Vadodara,Working Professional,Teacher,,1.0,,,4.0,7-8 hours,Moderate,B.Arch,No,5.0,5.0,No
+141330,Ishaani,Female,51.0,Varanasi,Working Professional,Doctor,,2.0,,,4.0,More than 8 hours,Healthy,MBBS,No,10.0,3.0,No
+141331,Diya,Female,59.0,Surat,Working Professional,Electrician,,4.0,,,1.0,More than 8 hours,Unhealthy,BSc,Yes,3.0,1.0,No
+141332,Aanchal,Female,42.0,Srinagar,Working Professional,Chemist,,2.0,,,5.0,7-8 hours,Unhealthy,M.Pharm,No,1.0,2.0,Yes
+141333,Tanya,Female,49.0,Vadodara,Working Professional,Teacher,,4.0,,,5.0,7-8 hours,Unhealthy,B.Arch,No,7.0,4.0,No
+141334,Riya,Female,56.0,Ludhiana,Working Professional,Data Scientist,,2.0,,,2.0,Less than 5 hours,Healthy,BSc,Yes,3.0,5.0,Yes
+141335,Sanya,Female,50.0,Meerut,Working Professional,Finanancial Analyst,,1.0,,,5.0,5-6 hours,Moderate,ME,No,10.0,1.0,No
+141336,Jiya,Female,39.0,Ahmedabad,Working Professional,,,2.0,,,5.0,5-6 hours,Unhealthy,Class 12,No,0.0,5.0,Yes
+141337,Aahana,Female,49.0,Rajkot,Working Professional,,,5.0,,,3.0,5-6 hours,Unhealthy,Class 12,Yes,2.0,1.0,Yes
+141338,Shlok,Male,56.0,Indore,Working Professional,Digital Marketer,,1.0,,,1.0,More than 8 hours,Unhealthy,B.Com,Yes,11.0,4.0,No
+141339,Krishna,Male,56.0,Vasai-Virar,Working Professional,Data Scientist,,1.0,,,5.0,More than 8 hours,Unhealthy,MCA,No,2.0,2.0,Yes
+141340,Arav,Male,45.0,Lucknow,Working Professional,Judge,,3.0,,,2.0,More than 8 hours,Moderate,LLB,Yes,12.0,2.0,Yes
+141341,Charvi,Female,56.0,Hyderabad,Working Professional,Pharmacist,,2.0,,,3.0,Less than 5 hours,Moderate,B.Pharm,Yes,6.0,1.0,No
+141342,Chhavi,Female,20.0,Jaipur,Student,,4.0,,9.21,4.0,,5-6 hours,Unhealthy,M.Ed,Yes,7.0,5.0,Yes
+141343,Jhanvi,Female,27.0,Ahmedabad,Working Professional,Financial Analyst,,1.0,,,2.0,Less than 5 hours,Moderate,MBA,No,10.0,5.0,Yes
+141344,Aditi,Female,51.0,Indore,Working Professional,Civil Engineer,,5.0,,,4.0,7-8 hours,Unhealthy,PhD,Yes,11.0,3.0,Yes
+141345,Ishaani,Female,35.0,Kanpur,Working Professional,Teacher,,2.0,,,1.0,More than 8 hours,Moderate,B.Ed,No,10.0,2.0,Yes
+141346,Vivaan,Male,34.0,Vadodara,Student,,5.0,,7.22,2.0,,Less than 5 hours,Healthy,Class 12,No,7.0,4.0,No
+141347,Vikram,Male,55.0,Varanasi,Working Professional,Teacher,,1.0,,,4.0,More than 8 hours,Healthy,B.Pharm,No,6.0,5.0,No
+141348,Rudransh,Male,47.0,Delhi,Working Professional,Consultant,,5.0,,,5.0,More than 8 hours,Moderate,ME,No,3.0,2.0,No

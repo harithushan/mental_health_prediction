@@ -1,0 +1,29 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mental-health-app
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+      - mlruns:/app/mlruns
+    depends_on:
+      - mlflow
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000 #sqlite:///mlflow.db
+      - PYTHONUNBUFFERED=1
+    command: streamlit run app.py --server.port=8501 --server.address=0.0.0.0
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v2.12.1  # or latest stable
+    container_name: mlflow-tracking
+    ports:
+      - "5000:5000"
+    volumes:
+      - mlruns:/mlflow/mlruns
+    command: mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root /mlflow/mlruns --host 0.0.0.0
+
+volumes:
+  mlruns:
